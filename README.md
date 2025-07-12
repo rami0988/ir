@@ -61,10 +61,11 @@ ranking_tfidf_service.py (ترتيب الوثائق باستخدام TF-IDF عل
 ranking_embedding_service.py (ترتيب الوثائق باستخدام التضمينات على المنفذ 8007)
 ranking_hybrid_service.py (ترتيب الوثائق باستخدام نهج هجين على المنفذ 8008)
 vector_store_service.py (تخزين المتجهات باستخدام FAISS على المنفذ 8005)
-
+run_online.py لتشغيل كل البورتات 
 مجلد src/offline_services/
 
-يحتوي على ملفات تمثيل البيانات وملف تنضيف البيانات 
+representation_service.py يحتوي على ملفات تمثيل البيانات 
+preprocessing_service.py وملف تنضيف البيانات 
 
 ملاحظات إضافية
 
