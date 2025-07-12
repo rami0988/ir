@@ -1,0 +1,8 @@
+Top similarities for antique: [0.42897725 0.42880148 0.41892987 0.41455668 0.39176056] at 2025-07-04 04:37:58.941936
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:37:59.659137
+Selected document at doc_id 3365843_0, similarity: 0.42897725105285645, text: ['title', 'registration', 'show', 'ownership', 'vehicle'] at 2025-07-04 04:38:00.298140
+Selected document at doc_id 474325_5, similarity: 0.4288014769554138, text: ['need', 'dealer', 'proof', 'ownership'] at 2025-07-04 04:38:00.298140
+Selected document at doc_id 1411195_7, similarity: 0.4189298748970032, text: ['sell', 'junk', 'ebay'] at 2025-07-04 04:38:00.299122
+Selected document at doc_id 2078446_6, similarity: 0.41455668210983276, text: ['dmv', 'apply', 'lose', 'title'] at 2025-07-04 04:38:00.299724
+Additional words for antique: registration show ownership vehicle at 2025-07-04 04:38:00.299724
+Enhanced Query for antique: How do you sell a junk car without a title? registration show ownership vehicle at 2025-07-04 04:38:00.300740

@@ -1,0 +1,5 @@
+Top similarities for antique: [0.4027263  0.39260662 0.37790635 0.36891758 0.35606158] at 2025-07-04 04:39:21.604762
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:39:22.313761
+Selected document at doc_id 2778402_3, similarity: 0.40272629261016846, text: ['americans', 'fatties'] at 2025-07-04 04:39:22.938782
+Additional words for antique: americans fatties at 2025-07-04 04:39:22.938782
+Enhanced Query for antique: Why don't fat people have to pay more for air travel? americans fatties at 2025-07-04 04:39:22.939782

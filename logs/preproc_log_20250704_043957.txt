@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6228042  0.6173497  0.5911279  0.5738224  0.56173027] at 2025-07-04 04:39:59.037652
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:39:59.734860
+Selected document at doc_id 1070025_11, similarity: 0.6228042244911194, text: ['mercuryvenusearth', 'mar', 'jupiter', 'saturn', 'uranusneptune', 'pluto'] at 2025-07-04 04:40:00.360875
+Selected document at doc_id 172731_6, similarity: 0.6173496842384338, text: ['distance', 'sun', 'saturn'] at 2025-07-04 04:40:00.361875
+Selected document at doc_id 4132763_0, similarity: 0.591127872467041, text: ['mercuryvenusearthmarsjupitersaturnuranuspluto', 'neptune'] at 2025-07-04 04:40:00.361875
+Selected document at doc_id 4132763_1, similarity: 0.5738223791122437, text: ['mercury', 'venus', 'earth', 'mar', 'jupitor', 'saturn', 'uranus', 'neptune', 'pluto'] at 2025-07-04 04:40:00.362842
+Selected document at doc_id 1841898_7, similarity: 0.5617302656173706, text: ['mercury', 'venus', 'earth', 'mar', 'jupitersaturnuranus', 'neptune', 'pluto'] at 2025-07-04 04:40:00.363845
+Additional words for antique: mercuryvenusearth mar jupiter uranusneptune at 2025-07-04 04:40:00.363845
+Enhanced Query for antique: how for is saturn from the sun? mercuryvenusearth mar jupiter uranusneptune at 2025-07-04 04:40:00.364845

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5554441  0.5488026  0.5213833  0.48728073 0.4283974 ] at 2025-07-03 12:31:31.866416
+Loaded doc_id_mapping with 403666 entries at 2025-07-03 12:31:32.716422
+Selected document at doc_id 4105530_10, similarity: 0.5554441213607788, text: ['antifreeze'] at 2025-07-03 12:31:33.602783
+Selected document at doc_id 2973956_7, similarity: 0.5488026142120361, text: ['antifreezing', 'agents'] at 2025-07-03 12:31:33.603780
+Selected document at doc_id 1335115_6, similarity: 0.5213832855224609, text: ['alcohol', 'antifreezing', 'agent'] at 2025-07-03 12:31:33.603780
+Selected document at doc_id 3231388_3, similarity: 0.4872807264328003, text: ['leak', 'antifreeze'] at 2025-07-03 12:31:33.604786
+Selected document at doc_id 2421333_1, similarity: 0.42839738726615906, text: ['check', 'coolant'] at 2025-07-03 12:31:33.605779
+Additional words for antique: antifreezing agents alcohol agent at 2025-07-03 12:31:33.606779
+Enhanced Query for antique: What is the difference between coolant and anti-freeze? antifreezing agents alcohol agent at 2025-07-03 12:31:33.607779

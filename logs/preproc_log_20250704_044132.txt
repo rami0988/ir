@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4745832  0.45405102 0.42731464 0.4269483  0.40276754] at 2025-07-04 04:41:33.829705
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:34.505744
+Selected document at doc_id 3715113_8, similarity: 0.4745832085609436, text: ['brace'] at 2025-07-04 04:41:35.126719
+Selected document at doc_id 2192891_6, similarity: 0.45405101776123047, text: ['brace', 'three', 'years', 'didnt', 'hurt', 'teeth', 'shift', 'sometimes', 'cause', 'headaches', 'hurt', 'strong', 'word', 'feel', 'minor', 'discomfort', 'get', 'tighten', 'nothing', 'serious', 'fact', 'swolling', 'aspirn', 'take', 'tylenol', 'help', 'uncomfortable', 'way', 'get', 'brace', 'feel', 'good', 'entire', 'process', 'smile', 'worth'] at 2025-07-04 04:41:35.127712
+Selected document at doc_id 1447837_0, similarity: 0.4273146390914917, text: ['take', 'easy', 'ibuprofen', 'ice', 'pack', 'chiropractor'] at 2025-07-04 04:41:35.128712
+Selected document at doc_id 2082443_1, similarity: 0.42694830894470215, text: ['okay', 'afraidgetting', 'brace', 'big', 'change', 'might', 'hurt', 'sometimes', 'annoy', 'youll', 'happy', 'youre', 'beautiful', 'smile', 'also', 'teeth', 'badly', 'enough', 'misalign', 'could', 'give', 'trouble', 'speak', 'eat', 'get', 'older', 'dentist', 'say', 'need', 'bracesits', 'probably', 'good', 'idea', 'dont', 'think', 'excuse', 'use', 'parent', 'get', 'sorry'] at 2025-07-04 04:41:35.128712
+Selected document at doc_id 2797462_0, similarity: 0.402767539024353, text: ['leg', 'brace', 'set', 'place', 'tighten', 'screw'] at 2025-07-04 04:41:35.128712
+Additional words for antique: three years didnt teeth at 2025-07-04 04:41:35.130010
+Enhanced Query for antique: how are braces put on and do they hurt a lot? three years didnt teeth at 2025-07-04 04:41:35.130010

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5815147  0.5742245  0.5742244  0.57422435 0.5672565 ] at 2025-07-04 04:39:35.780914
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:39:36.474914
+Selected document at doc_id 839327_16, similarity: 0.5815147161483765, text: ['wisdom', 'god'] at 2025-07-04 04:39:37.161913
+Selected document at doc_id 1760724_2, similarity: 0.5742244720458984, text: ['wisdom'] at 2025-07-04 04:39:37.161913
+Selected document at doc_id 366826_13, similarity: 0.5742244124412537, text: ['wisdom'] at 2025-07-04 04:39:37.162913
+Selected document at doc_id 3413940_14, similarity: 0.5742243528366089, text: ['wisdom'] at 2025-07-04 04:39:37.162913
+Selected document at doc_id 366826_6, similarity: 0.567256510257721, text: ['wisdom', 'understand'] at 2025-07-04 04:39:37.163914
+Additional words for antique: god understand at 2025-07-04 04:39:37.164913
+Enhanced Query for antique: why do wisdom varies from person to person? god understand at 2025-07-04 04:39:37.164913

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49863854 0.47868222 0.47259647 0.45663494 0.45651197] at 2025-07-04 11:10:54.096445
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:10:54.930636
+Selected document at doc_id 3269759_1, similarity: 0.4986385405063629, text: ['artificial', 'intelligence', 'computers', 'level', 'human', 'think'] at 2025-07-04 11:10:55.694940
+Selected document at doc_id 2461947_1, similarity: 0.4786822199821472, text: ['machine', 'not', 'human'] at 2025-07-04 11:10:55.694940
+Selected document at doc_id 1508849_3, similarity: 0.4725964665412903, text: ['artificial', 'plannet', 'think'] at 2025-07-04 11:10:55.695947
+Selected document at doc_id 1601847_7, similarity: 0.4566349387168884, text: ['make', 'smarter'] at 2025-07-04 11:10:55.696946
+Selected document at doc_id 2610629_15, similarity: 0.4565119743347168, text: ['smarter', 'humans'] at 2025-07-04 11:10:55.696946
+Additional words for antique: computers level human think at 2025-07-04 11:10:55.696946
+Enhanced Query for antique: what is artificial intelligence? computers level human think at 2025-07-04 11:10:55.697946

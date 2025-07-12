@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6411511  0.5491501  0.53865266 0.5386526  0.5285696 ] at 2025-07-04 04:36:44.719221
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:36:45.432229
+Selected document at doc_id 3271422_0, similarity: 0.6411510705947876, text: ['black', 'light'] at 2025-07-04 04:36:46.081602
+Selected document at doc_id 3664930_9, similarity: 0.5491501092910767, text: ['glow', 'dark'] at 2025-07-04 04:36:46.082605
+Selected document at doc_id 1522399_5, similarity: 0.5386526584625244, text: ['light'] at 2025-07-04 04:36:46.082605
+Selected document at doc_id 2374434_10, similarity: 0.5386525988578796, text: ['light'] at 2025-07-04 04:36:46.082605
+Selected document at doc_id 1667760_13, similarity: 0.5285695791244507, text: ['electrolights'] at 2025-07-04 04:36:46.083606
+Additional words for antique: glow dark electrolights at 2025-07-04 04:36:46.084577
+Enhanced Query for antique: Well the black light is UV light.So if it is "black" how can it be "light" ? glow dark electrolights at 2025-07-04 04:36:46.085604

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.531794   0.5162046  0.51219684 0.50760007 0.48691076] at 2025-07-04 11:10:17.211837
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:10:17.937768
+Selected document at doc_id 3084462_7, similarity: 0.531794011592865, text: ['satisfy', 'customer'] at 2025-07-04 11:10:18.572205
+Selected document at doc_id 4322618_1, similarity: 0.5162045955657959, text: ['customer', 'always', 'right'] at 2025-07-04 11:10:18.573208
+Selected document at doc_id 2401449_1, similarity: 0.5121968388557434, text: ['quality', 'simply', 'meet', 'customers', 'expectations', 'deliver', 'promise'] at 2025-07-04 11:10:18.573208
+Selected document at doc_id 3084462_1, similarity: 0.5076000690460205, text: ['good', 'customer', 'service', 'ability', 'resolve', 'customer', 'issue', 'friendly', 'manner', 'efficiently', 'lowest', 'amount', 'time', 'possible', 'phone', 'call', 'possible'] at 2025-07-04 11:10:18.573969
+Selected document at doc_id 2970455_1, similarity: 0.48691076040267944, text: ['customery', 'phrase'] at 2025-07-04 11:10:18.574752
+Additional words for antique: satisfy always right quality at 2025-07-04 11:10:18.574752
+Enhanced Query for antique: what exemplifies effective customer service? satisfy always right quality at 2025-07-04 11:10:18.574752

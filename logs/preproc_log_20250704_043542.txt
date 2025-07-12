@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49036315 0.46570307 0.45915252 0.45379215 0.45264983] at 2025-07-04 04:35:44.233721
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:44.926732
+Selected document at doc_id 782453_29, similarity: 0.49036315083503723, text: ['easter', 'basket'] at 2025-07-04 04:35:45.558755
+Selected document at doc_id 2942077_1, similarity: 0.4657030701637268, text: ['easter'] at 2025-07-04 04:35:45.559748
+Selected document at doc_id 1994147_2, similarity: 0.4591525197029114, text: ['sugar', 'sugar', 'sugar'] at 2025-07-04 04:35:45.559748
+Selected document at doc_id 1731892_6, similarity: 0.45379215478897095, text: ['chocolate', 'frostingheaven'] at 2025-07-04 04:35:45.561726
+Selected document at doc_id 1324615_5, similarity: 0.4526498317718506, text: ['ketchup', 'sugar'] at 2025-07-04 04:35:45.561726
+Additional words for antique: basket frostingheaven ketchup at 2025-07-04 04:35:45.562725
+Enhanced Query for antique: Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses? basket frostingheaven ketchup at 2025-07-04 04:35:45.562725

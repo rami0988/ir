@@ -1,0 +1,9 @@
+Top similarities for antique: [0.68876433 0.6181948  0.5968586  0.59392035 0.59265363] at 2025-07-04 04:38:36.182052
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:36.899058
+Selected document at doc_id 3823488_2, similarity: 0.6887643337249756, text: ['alive'] at 2025-07-04 04:38:37.562057
+Selected document at doc_id 64350_2, similarity: 0.6181948184967041, text: ['yep', 'alive'] at 2025-07-04 04:38:37.562057
+Selected document at doc_id 3858303_10, similarity: 0.5968586206436157, text: ['hes', 'alive'] at 2025-07-04 04:38:37.563067
+Selected document at doc_id 1631289_28, similarity: 0.5939203500747681, text: ['still', 'live'] at 2025-07-04 04:38:37.563067
+Selected document at doc_id 3763316_3, similarity: 0.5926536321640015, text: ['yes', 'still', 'alive'] at 2025-07-04 04:38:37.564109
+Additional words for antique: yep hes still live at 2025-07-04 04:38:37.564109
+Enhanced Query for antique: Why am I alive? yep hes still live at 2025-07-04 04:38:37.565048

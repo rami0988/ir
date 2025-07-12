@@ -1,0 +1,9 @@
+Top similarities for antique: [0.65280205 0.6489083  0.6475154  0.6385277  0.62790483] at 2025-07-04 10:57:36.586981
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:57:37.318984
+Selected document at doc_id 2944022_1, similarity: 0.652802050113678, text: ['scribble', 'mean', 'like', 'doodle', 'write'] at 2025-07-04 10:57:38.002172
+Selected document at doc_id 1519703_21, similarity: 0.6489083170890808, text: ['act', 'put', 'imagination', 'pencil', 'paper'] at 2025-07-04 10:57:38.002172
+Selected document at doc_id 4452244_4, similarity: 0.6475154161453247, text: ['put', 'drop', 'ink', 'waterslowly', 'slowly', 'ink', 'diffuse', 'water'] at 2025-07-04 10:57:38.002172
+Selected document at doc_id 2519825_4, similarity: 0.6385276913642883, text: ['writer', 'someone', 'talk', 'paper', 'pencil'] at 2025-07-04 10:57:38.003190
+Selected document at doc_id 2541665_1, similarity: 0.6279048323631287, text: ['simply', 'write', 'plane', 'paper'] at 2025-07-04 10:57:38.004172
+Additional words for antique: mean like doodle act at 2025-07-04 10:57:38.004172
+Enhanced Query for antique: What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively? mean like doodle act at 2025-07-04 10:57:38.004172

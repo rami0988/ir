@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49346334 0.44442832 0.44017792 0.43866372 0.43191725] at 2025-07-04 11:07:47.942043
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:07:48.687966
+Selected document at doc_id 3739403_1, similarity: 0.49346333742141724, text: ['smell', 'ears'] at 2025-07-04 11:07:49.549387
+Selected document at doc_id 3345832_10, similarity: 0.44442832469940186, text: ['smell', 'stinkslol'] at 2025-07-04 11:07:49.550388
+Selected document at doc_id 2238074_14, similarity: 0.44017791748046875, text: ['rub', 'nose', 'spray'] at 2025-07-04 11:07:49.550388
+Selected document at doc_id 3504952_2, similarity: 0.4386637210845947, text: ['smell', 'behind', 'ears', 'soap', 'water'] at 2025-07-04 11:07:49.551384
+Selected document at doc_id 1350863_0, similarity: 0.4319172501564026, text: ['breath', 'stink'] at 2025-07-04 11:07:49.552385
+Additional words for antique: smell stinkslol rub nose at 2025-07-04 11:07:49.552385
+Enhanced Query for antique: what can make someones ear's stink? smell stinkslol rub nose at 2025-07-04 11:07:49.552385

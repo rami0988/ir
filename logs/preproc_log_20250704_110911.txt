@@ -1,0 +1,9 @@
+Top similarities for antique: [0.54209036 0.52144456 0.50648487 0.47454876 0.46933135] at 2025-07-04 11:09:13.487351
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:09:14.213093
+Selected document at doc_id 860258_0, similarity: 0.5420903563499451, text: ['twist', 'corkscrew', 'cork', 'pull', 'handle', 'side'] at 2025-07-04 11:09:14.915009
+Selected document at doc_id 4001394_6, similarity: 0.52144455909729, text: ['cork'] at 2025-07-04 11:09:14.915009
+Selected document at doc_id 3180289_5, similarity: 0.506484866142273, text: ['buy', 'cork'] at 2025-07-04 11:09:14.916009
+Selected document at doc_id 4440324_3, similarity: 0.4745487570762634, text: ['corkscrew', 'course'] at 2025-07-04 11:09:14.916009
+Selected document at doc_id 2982796_1, similarity: 0.4693313539028168, text: ['stick', 'cork'] at 2025-07-04 11:09:14.917013
+Additional words for antique: twist pull handle side at 2025-07-04 11:09:14.917013
+Enhanced Query for antique: How can I get a cork out of, not into, a wine bottle without a corkscrew? twist pull handle side at 2025-07-04 11:09:14.917013

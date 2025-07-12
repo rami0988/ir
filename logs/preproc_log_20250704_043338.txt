@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5887587  0.53998303 0.5366425  0.5290184  0.5146163 ] at 2025-07-04 04:33:40.460032
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:33:41.524017
+Selected document at doc_id 3424110_10, similarity: 0.5887587070465088, text: ['patient'] at 2025-07-04 04:33:42.575014
+Selected document at doc_id 1395064_1, similarity: 0.5399830341339111, text: ['drivers'] at 2025-07-04 04:33:42.576034
+Selected document at doc_id 4370455_8, similarity: 0.5366424918174744, text: ['designate', 'driver'] at 2025-07-04 04:33:42.577019
+Selected document at doc_id 592616_1, similarity: 0.5290184020996094, text: ['patients'] at 2025-07-04 04:33:42.578013
+Selected document at doc_id 181119_387, similarity: 0.5146163105964661, text: ['drive', 'instructor'] at 2025-07-04 04:33:42.579039
+Additional words for antique: drivers designate patients drive at 2025-07-04 04:33:42.580026
+Enhanced Query for antique: How patient a driver are you? drivers designate patients drive at 2025-07-04 04:33:42.582033

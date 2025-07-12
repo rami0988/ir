@@ -1,0 +1,6 @@
+Top similarities for antique: [0.49387768 0.49387768 0.38863933 0.3869636  0.35401586] at 2025-07-04 11:09:23.761085
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:09:24.536318
+Selected document at doc_id 788265_8, similarity: 0.49387767910957336, text: ['bro'] at 2025-07-04 11:09:25.267421
+Selected document at doc_id 2905727_0, similarity: 0.49387767910957336, text: ['bro'] at 2025-07-04 11:09:25.267421
+Additional words for antique:  at 2025-07-04 11:09:25.268438
+No new words to add to query for antique at 2025-07-04 11:09:25.268438

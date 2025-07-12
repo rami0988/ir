@@ -1,0 +1,9 @@
+Top similarities for antique: [0.46322733 0.44789705 0.43721384 0.42991742 0.42800397] at 2025-07-04 04:34:49.234114
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:34:49.924113
+Selected document at doc_id 3406176_6, similarity: 0.4632273316383362, text: ['corona', 'lime', 'baybeeeeeeeeeeeeeeeeeeeee'] at 2025-07-04 04:34:50.559776
+Selected document at doc_id 3406176_10, similarity: 0.4478970468044281, text: ['corona', 'taste', 'best'] at 2025-07-04 04:34:50.559776
+Selected document at doc_id 2341356_19, similarity: 0.43721383810043335, text: ['cognac', 'brandy'] at 2025-07-04 04:34:50.559776
+Selected document at doc_id 2661278_10, similarity: 0.42991742491722107, text: ['pepsi', 'better', 'aftertaste'] at 2025-07-04 04:34:50.561193
+Selected document at doc_id 209084_15, similarity: 0.4280039668083191, text: ['fish', 'tacos', 'corona'] at 2025-07-04 04:34:50.561193
+Additional words for antique: corona lime baybeeeeeeeeeeeeeeeeeeeee best at 2025-07-04 04:34:50.562199
+Enhanced Query for antique: Why do people drink Cuervo when it tastes the same going down as coming up? corona lime baybeeeeeeeeeeeeeeeeeeeee best at 2025-07-04 04:34:50.562199

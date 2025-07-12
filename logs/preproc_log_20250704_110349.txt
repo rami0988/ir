@@ -1,0 +1,7 @@
+Top similarities for antique: [0.42631382 0.41424033 0.40484238 0.38901895 0.379244  ] at 2025-07-04 11:03:50.488696
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:03:51.225259
+Selected document at doc_id 3690120_0, similarity: 0.4263138175010681, text: ['local', 'court', 'probate', 'know'] at 2025-07-04 11:03:51.908449
+Selected document at doc_id 3064288_1, similarity: 0.4142403304576874, text: ['contact', 'agent', 'insurance', 'company'] at 2025-07-04 11:03:51.908449
+Selected document at doc_id 3345482_4, similarity: 0.4048423767089844, text: ['find', 'lawyer'] at 2025-07-04 11:03:51.909436
+Additional words for antique: local court probate know at 2025-07-04 11:03:51.910435
+Enhanced Query for antique: how do i find out if someone left me a life insurance policy? local court probate know at 2025-07-04 11:03:51.910435

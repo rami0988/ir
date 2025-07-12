@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5533517  0.51880825 0.47538537 0.4692017  0.4648733 ] at 2025-07-04 11:09:40.580996
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:09:41.321592
+Selected document at doc_id 649322_2, similarity: 0.5533517003059387, text: ['check', 'muffler', 'bearings'] at 2025-07-04 11:09:41.994576
+Selected document at doc_id 3783805_0, similarity: 0.5188082456588745, text: ['cant', 'make', 'muffler', 'louder'] at 2025-07-04 11:09:41.994576
+Selected document at doc_id 4096934_2, similarity: 0.4753853678703308, text: ['sound', 'like', 'alternator'] at 2025-07-04 11:09:41.995587
+Selected document at doc_id 3694941_2, similarity: 0.4692017138004303, text: ['probably', 'normal', 'question', '1995', 'bmw', '525i', 'bmw', 'always', 'give', 'white', 'smoke', 'notice', 'not', 'overheat', 'anything', 'like', 'outside', 'temperature', 'deg', 'cars', 'run', 'fine', 'sometimes', 'smell', 'coolant', 'inside', 'car', 'unable', 'find', 'wet', 'spot', 'car', 'help', 'answer', 'white', 'smoke', 'first', 'start', 'normal', 'white', 'smoke', 'continue', 'internal', 'coolant', 'leak', 'crack', 'headblown', 'head', 'gasket', 'black', 'smoke', 'cause', 'rich', 'fuel', 'condition', 'blue', 'smoke', 'cause', 'oil', 'consumption', 'smell', 'coolant', 'inside', 'car', 'cause', 'leak', 'heater', 'core'] at 2025-07-04 11:09:41.996293
+Selected document at doc_id 1111509_0, similarity: 0.4648733139038086, text: ['coolant', 'smell', 'like', 'exhaust', 'exhaust', 'smell', 'like', 'coolant'] at 2025-07-04 11:09:41.997301
+Additional words for antique: check bearings cant louder at 2025-07-04 11:09:41.997301
+Enhanced Query for antique: what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds? check bearings cant louder at 2025-07-04 11:09:41.997301

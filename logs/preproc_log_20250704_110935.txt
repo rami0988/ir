@@ -1,0 +1,6 @@
+Top similarities for antique: [0.45465547 0.40480524 0.39621717 0.39515328 0.37529683] at 2025-07-04 11:09:37.334695
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:09:38.113949
+Selected document at doc_id 4278201_3, similarity: 0.4546554684638977, text: ['wrong', 'infrared', 'affect', 'germination', 'wavelengths', 'use', 'growth'] at 2025-07-04 11:09:38.867162
+Selected document at doc_id 1234678_0, similarity: 0.4048052430152893, text: ['ultraviolet', 'ray', 'sun', 'cause', 'skin', 'cancer', 'sunburn'] at 2025-07-04 11:09:38.868160
+Additional words for antique: wrong infrared wavelengths use at 2025-07-04 11:09:38.868160
+Enhanced Query for antique: how does Ultraviolet Light Affects Seed Germination and plant growth? wrong infrared wavelengths use at 2025-07-04 11:09:38.870173

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5105202  0.48965055 0.4886461  0.47384912 0.4691214 ] at 2025-07-04 04:34:37.464417
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:34:38.156417
+Selected document at doc_id 3115686_6, similarity: 0.5105202198028564, text: ['dance', 'friends', 'relax'] at 2025-07-04 04:34:38.788451
+Selected document at doc_id 1076915_3, similarity: 0.48965054750442505, text: ['alone'] at 2025-07-04 04:34:38.789418
+Selected document at doc_id 1907578_3, similarity: 0.48864609003067017, text: ['relax', 'socialize', 'lol'] at 2025-07-04 04:34:38.789418
+Selected document at doc_id 2584718_3, similarity: 0.4738491177558899, text: ['enjoy', 'company'] at 2025-07-04 04:34:38.790968
+Selected document at doc_id 2726152_9, similarity: 0.46912139654159546, text: ['swim', 'tan', 'relax', 'bbq', 'party', 'wfriends'] at 2025-07-04 04:34:38.790968
+Additional words for antique: dance friends relax socialize at 2025-07-04 04:34:38.792030
+Enhanced Query for antique: how can I enjoy my time alone? dance friends relax socialize at 2025-07-04 04:34:38.792973

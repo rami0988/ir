@@ -1,0 +1,6 @@
+Top similarities for antique: [0.41929042 0.40940288 0.39440346 0.37186515 0.36307532] at 2025-07-04 11:07:00.532493
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:07:01.293442
+Selected document at doc_id 1906617_3, similarity: 0.4192904233932495, text: ['shoshidad', 'correct'] at 2025-07-04 11:07:02.292605
+Selected document at doc_id 2225912_0, similarity: 0.40940287709236145, text: ['word', 'sholom', 'pronounce', 'sholem', 'traditional', 'hebrew', 'yiddish', 'greet', 'mean', 'peace'] at 2025-07-04 11:07:02.293619
+Additional words for antique: shoshidad correct word sholom at 2025-07-04 11:07:02.293619
+Enhanced Query for antique: What does sholomister mean? shoshidad correct word sholom at 2025-07-04 11:07:02.294609

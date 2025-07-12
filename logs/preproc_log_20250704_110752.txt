@@ -1,0 +1,9 @@
+Top similarities for antique: [0.50534606 0.50534606 0.50534606 0.50534606 0.50534606] at 2025-07-04 11:07:54.647993
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:07:55.378066
+Selected document at doc_id 3917891_17, similarity: 0.5053460597991943, text: ['float'] at 2025-07-04 11:07:56.178874
+Selected document at doc_id 3917891_27, similarity: 0.5053460597991943, text: ['float'] at 2025-07-04 11:07:56.179860
+Selected document at doc_id 1247575_3, similarity: 0.5053460597991943, text: ['float'] at 2025-07-04 11:07:56.180867
+Selected document at doc_id 3917891_16, similarity: 0.5053460597991943, text: ['float'] at 2025-07-04 11:07:56.180867
+Selected document at doc_id 2875090_3, similarity: 0.5053460597991943, text: ['float'] at 2025-07-04 11:07:56.181727
+Additional words for antique:  at 2025-07-04 11:07:56.181727
+No new words to add to query for antique at 2025-07-04 11:07:56.182733

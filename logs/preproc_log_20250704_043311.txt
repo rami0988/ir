@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6161958  0.6051284  0.5936181  0.59072554 0.58701015] at 2025-07-04 04:33:13.439767
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:33:14.450780
+Selected document at doc_id 4454063_4, similarity: 0.616195797920227, text: ['happy', 'condolence'] at 2025-07-04 04:33:15.381783
+Selected document at doc_id 1631289_2, similarity: 0.6051284074783325, text: ['cremate', 'still'] at 2025-07-04 04:33:15.382763
+Selected document at doc_id 2834121_1, similarity: 0.5936180949211121, text: ['elegy', 'usually', 'shorter', 'poem', 'commemorate', 'death', 'beloved', 'individual', 'purpose', 'express', 'sorrow', 'also', 'consolation', 'remind', 'grievers', 'continuation', 'life', 'decease'] at 2025-07-04 04:33:15.383754
+Selected document at doc_id 2893666_9, similarity: 0.5907255411148071, text: ['expression', 'condolences', 'feel', 'sorry', 'loss'] at 2025-07-04 04:33:15.385313
+Selected document at doc_id 3501361_2, similarity: 0.5870101451873779, text: ['funeral', 'home'] at 2025-07-04 04:33:15.386383
+Additional words for antique: happy condolence cremate still at 2025-07-04 04:33:15.387325
+Enhanced Query for antique: What's the proper way to express sorrow at a funeral? happy condolence cremate still at 2025-07-04 04:33:15.388390

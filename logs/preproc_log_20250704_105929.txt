@@ -1,0 +1,9 @@
+Top similarities for antique: [0.59291553 0.582073   0.5779599  0.57288426 0.56999683] at 2025-07-04 10:59:30.775475
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:59:31.524518
+Selected document at doc_id 2255094_4, similarity: 0.5929155349731445, text: ['loan', 'give', 'present', 'take', 'away', 'future'] at 2025-07-04 10:59:32.187485
+Selected document at doc_id 68860_1, similarity: 0.5820729732513428, text: ['borrow', 'money', 'persons', 'computer', 'borrow'] at 2025-07-04 10:59:32.187485
+Selected document at doc_id 4300721_2, similarity: 0.5779598951339722, text: ['semivowels', 'act', 'vowel', 'consonent', 'depend', 'usage'] at 2025-07-04 10:59:32.187485
+Selected document at doc_id 1252765_1, similarity: 0.5728842616081238, text: ['base', 'phonetic', 'sound'] at 2025-07-04 10:59:32.188508
+Selected document at doc_id 1086547_7, similarity: 0.5699968338012695, text: ['word', 'read', 'forward', 'reverse', 'pronounce'] at 2025-07-04 10:59:32.189482
+Additional words for antique: loan give present take at 2025-07-04 10:59:32.189482
+Enhanced Query for antique: what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing? loan give present take at 2025-07-04 10:59:32.190486

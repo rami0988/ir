@@ -1,0 +1,5 @@
+Top similarities for antique: [0.46486217 0.35454634 0.34678724 0.3435737  0.33783874] at 2025-07-04 04:33:17.613510
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:33:18.632539
+Selected document at doc_id 1466730_10, similarity: 0.4648621678352356, text: ['aruba'] at 2025-07-04 04:33:19.580578
+Additional words for antique:  at 2025-07-04 04:33:19.581511
+No new words to add to query for antique at 2025-07-04 04:33:19.581511

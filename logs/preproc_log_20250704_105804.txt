@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6024679 0.5563653 0.536306  0.5122714 0.5122714] at 2025-07-04 10:58:06.440211
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:58:07.202212
+Selected document at doc_id 780772_4, similarity: 0.6024678945541382, text: ['survival', 'instinct'] at 2025-07-04 10:58:07.907209
+Selected document at doc_id 2218281_2, similarity: 0.5563653111457825, text: ['selfishness', 'ego'] at 2025-07-04 10:58:07.907209
+Selected document at doc_id 469596_4, similarity: 0.5363060235977173, text: ['cause', 'ego'] at 2025-07-04 10:58:07.908209
+Selected document at doc_id 4064766_0, similarity: 0.5122714042663574, text: ['ego'] at 2025-07-04 10:58:07.908209
+Selected document at doc_id 3811544_10, similarity: 0.5122714042663574, text: ['ego'] at 2025-07-04 10:58:07.909210
+Additional words for antique: instinct selfishness cause at 2025-07-04 10:58:07.909210
+Enhanced Query for antique: How is ego a part of our survival instincts? instinct selfishness cause at 2025-07-04 10:58:07.909210

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5495707 0.5300876 0.5264406 0.5197938 0.5000521] at 2025-07-04 04:37:41.785444
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:37:42.492439
+Selected document at doc_id 940641_12, similarity: 0.5495706796646118, text: ['usually', 'puberty'] at 2025-07-04 04:37:43.133439
+Selected document at doc_id 3085721_6, similarity: 0.5300875902175903, text: ['puberty', 'read'] at 2025-07-04 04:37:43.134442
+Selected document at doc_id 823705_1, similarity: 0.5264406204223633, text: ['plus', 'puberty'] at 2025-07-04 04:37:43.134442
+Selected document at doc_id 2939305_0, similarity: 0.5197938084602356, text: ['puberty', 'probably'] at 2025-07-04 04:37:43.135459
+Selected document at doc_id 892380_12, similarity: 0.5000520944595337, text: ['sign', 'maturity'] at 2025-07-04 04:37:43.135459
+Additional words for antique: usually read plus probably at 2025-07-04 04:37:43.135459
+Enhanced Query for antique: what are some signs that puberty is beginning? usually read plus probably at 2025-07-04 04:37:43.136475

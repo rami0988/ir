@@ -1,0 +1,9 @@
+Top similarities for antique: [0.47741085 0.46490556 0.45761153 0.44769692 0.43412566] at 2025-07-04 10:57:33.321574
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:57:34.239577
+Selected document at doc_id 3498251_2, similarity: 0.47741085290908813, text: ['lose', 'bellyfat', 'httpweightlosstipsguideblogspotcom200609howtolosebellyfathtml'] at 2025-07-04 10:57:34.984576
+Selected document at doc_id 537405_4, similarity: 0.4649055600166321, text: ['lose', 'first', 'weeks', 'atkins', 'excercising'] at 2025-07-04 10:57:34.984576
+Selected document at doc_id 1942515_13, similarity: 0.4576115310192108, text: ['lipo', 'maybe', 'exercise', 'alot', 'diet', 'might', 'good'] at 2025-07-04 10:57:34.985580
+Selected document at doc_id 2608452_1, similarity: 0.4476969242095947, text: ['eat', 'little', 'excercise', 'everday', 'joggingwork', 'week', 'reduce', 'weight'] at 2025-07-04 10:57:34.985580
+Selected document at doc_id 3667992_0, similarity: 0.4341256618499756, text: ['httpwwwdrnaturacomweight_loss__flatter_stomach'] at 2025-07-04 10:57:34.986580
+Additional words for antique: bellyfat httpweightlosstipsguideblogspotcom200609howtolosebellyfathtml first weeks at 2025-07-04 10:57:34.987097
+Enhanced Query for antique: how can i lose 30 pounds by june3? bellyfat httpweightlosstipsguideblogspotcom200609howtolosebellyfathtml first weeks at 2025-07-04 10:57:34.987097

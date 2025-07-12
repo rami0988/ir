@@ -1,0 +1,9 @@
+Top similarities for antique: [0.53500265 0.51007235 0.5076021  0.504491   0.49846542] at 2025-07-04 11:08:30.820594
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:08:31.559131
+Selected document at doc_id 4204788_2, similarity: 0.5350026488304138, text: ['contact', 'sheriff', 'jail', 'warden', 'jail'] at 2025-07-04 11:08:32.365005
+Selected document at doc_id 169587_0, similarity: 0.5100723505020142, text: ['would', 'check', 'dept', 'corrections', 'online'] at 2025-07-04 11:08:32.365992
+Selected document at doc_id 81870_1, similarity: 0.5076020956039429, text: ['county', 'jail', 'inmate', 'search', 'directory', 'free', 'county', 'jail', 'inmate', 'search', 'engines', 'categorize', 'state', 'help', 'locate', 'jail', 'inmates', 'search', 'prisoners', 'unite', 'state', 'locate', 'jail', 'inmates', 'prisoner', 'record', 'criminal', 'record', 'online', 'quickly', 'jail', 'inmate', 'list', 'tuscaloosa', 'county', 'jail', 'inmate', 'search', 'alabama', 'arrest', 'warrant', 'union', 'county', 'jail', 'inmates', 'list', 'arkansas', 'arrest', 'warrant', 'wwwancestorhuntcomcountyjailinmatessearch'] at 2025-07-04 11:08:32.365992
+Selected document at doc_id 4028967_3, similarity: 0.5044909715652466, text: ['accord', 'louisiana', 'department', 'corrections', 'web', 'site', 'need', 'call', 'follow', 'number', 'adult', 'service', 'phone', '2253429711', 'good', 'luck'] at 2025-07-04 11:08:32.367231
+Selected document at doc_id 4028967_4, similarity: 0.4984654188156128, text: ['web', 'california', 'inmate', 'locater', 'see', 'list', 'kinds', 'prisons'] at 2025-07-04 11:08:32.367231
+Additional words for antique: contact sheriff jail warden at 2025-07-04 11:08:32.367231
+Enhanced Query for antique: How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563? contact sheriff jail warden at 2025-07-04 11:08:32.368260

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49403435 0.49403435 0.4940343  0.44628024 0.4356882 ] at 2025-07-04 11:05:19.372826
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:20.158795
+Selected document at doc_id 144229_4, similarity: 0.4940343499183655, text: ['lemonade', 'stand'] at 2025-07-04 11:05:20.791277
+Selected document at doc_id 181119_97, similarity: 0.4940343499183655, text: ['lemonade', 'stand'] at 2025-07-04 11:05:20.792275
+Selected document at doc_id 1847448_5, similarity: 0.4940342903137207, text: ['lemonade', 'stand'] at 2025-07-04 11:05:20.792275
+Selected document at doc_id 1793190_1, similarity: 0.44628024101257324, text: ['regular', 'lemonade', 'lemon', 'juice', 'sugar', 'water', 'pink', 'lemonade', 'different', 'juice', 'add', 'like', 'cranberry', 'strawberry'] at 2025-07-04 11:05:20.793275
+Selected document at doc_id 1717888_9, similarity: 0.43568819761276245, text: ['restaurants'] at 2025-07-04 11:05:20.793275
+Additional words for antique: stand regular lemon juice at 2025-07-04 11:05:20.794276
+Enhanced Query for antique: why is lemonade at restaurants sometimes different? stand regular lemon juice at 2025-07-04 11:05:20.794276

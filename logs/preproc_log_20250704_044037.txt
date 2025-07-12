@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5949497  0.5949497  0.5796666  0.54421043 0.54421043] at 2025-07-04 04:40:39.109270
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:39.849274
+Selected document at doc_id 1218838_13, similarity: 0.5949497222900391, text: ['weed'] at 2025-07-04 04:40:40.570272
+Selected document at doc_id 3059341_5, similarity: 0.5949497222900391, text: ['weed'] at 2025-07-04 04:40:40.570272
+Selected document at doc_id 184789_16, similarity: 0.5796666145324707, text: ['marijuana'] at 2025-07-04 04:40:40.571267
+Selected document at doc_id 3435824_3, similarity: 0.5442104339599609, text: ['smoke', 'weed'] at 2025-07-04 04:40:40.571267
+Selected document at doc_id 2434719_9, similarity: 0.5442104339599609, text: ['smoke', 'weed'] at 2025-07-04 04:40:40.572267
+Additional words for antique: marijuana smoke at 2025-07-04 04:40:40.573318
+Enhanced Query for antique: What do you mean by "weed"? marijuana smoke at 2025-07-04 04:40:40.574296

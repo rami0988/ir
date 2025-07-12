@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4845169  0.46443158 0.46261027 0.46017078 0.45499027] at 2025-07-04 11:08:27.505630
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:08:28.288367
+Selected document at doc_id 848055_12, similarity: 0.4845168888568878, text: ['probaly', 'cystisis'] at 2025-07-04 11:08:29.083842
+Selected document at doc_id 3192411_1, similarity: 0.4644315838813782, text: ['paramecium', 'genus'] at 2025-07-04 11:08:29.083842
+Selected document at doc_id 4103865_1, similarity: 0.46261027455329895, text: ['protista'] at 2025-07-04 11:08:29.083842
+Selected document at doc_id 2202444_1, similarity: 0.46017077565193176, text: ['chicken', 'pox'] at 2025-07-04 11:08:29.085811
+Selected document at doc_id 3226351_1, similarity: 0.4549902677536011, text: ['philippines', 'mean', 'termites'] at 2025-07-04 11:08:29.086816
+Additional words for antique: probaly cystisis paramecium genus at 2025-07-04 11:08:29.086816
+Enhanced Query for antique: why do i have pterofobia? probaly cystisis paramecium genus at 2025-07-04 11:08:29.087861

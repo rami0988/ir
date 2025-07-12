@@ -1,0 +1,9 @@
+Top similarities for antique: [0.7374319  0.7374319  0.7328346  0.72237104 0.6528705 ] at 2025-07-04 10:57:13.462619
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:57:14.246647
+Selected document at doc_id 3265991_12, similarity: 0.7374318838119507, text: ['concentration'] at 2025-07-04 10:57:15.392800
+Selected document at doc_id 2036065_1, similarity: 0.7374318838119507, text: ['concentration'] at 2025-07-04 10:57:15.393800
+Selected document at doc_id 1253368_5, similarity: 0.7328345775604248, text: ['concentrate', 'mind'] at 2025-07-04 10:57:15.393800
+Selected document at doc_id 971642_3, similarity: 0.7223710417747498, text: ['concentrate'] at 2025-07-04 10:57:15.394799
+Selected document at doc_id 4087614_7, similarity: 0.6528704762458801, text: ['try', 'yoga', 'concentration'] at 2025-07-04 10:57:15.394799
+Additional words for antique: concentrate mind try yoga at 2025-07-04 10:57:15.394799
+Enhanced Query for antique: how can we get concentration onsomething? concentrate mind try yoga at 2025-07-04 10:57:15.394799

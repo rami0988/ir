@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5318959  0.53189576 0.48745263 0.480419   0.4782611 ] at 2025-07-04 10:58:53.384446
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:58:54.131450
+Selected document at doc_id 1573436_0, similarity: 0.5318958759307861, text: ['apple', 'pie'] at 2025-07-04 10:58:54.811993
+Selected document at doc_id 2198611_11, similarity: 0.5318957567214966, text: ['apple', 'pie'] at 2025-07-04 10:58:54.812991
+Selected document at doc_id 1060042_28, similarity: 0.4874526262283325, text: ['traditional', 'apple', 'pie'] at 2025-07-04 10:58:54.812991
+Selected document at doc_id 1060042_20, similarity: 0.48041900992393494, text: ['apple', 'pie', 'cinnamon', 'ice', 'cream'] at 2025-07-04 10:58:54.813991
+Selected document at doc_id 2981567_2, similarity: 0.4782611131668091, text: ['fruit', 'pie'] at 2025-07-04 10:58:54.813991
+Additional words for antique: traditional cinnamon ice cream at 2025-07-04 10:58:54.814994
+Enhanced Query for antique: how good is apple pie when it is cold? traditional cinnamon ice cream at 2025-07-04 10:58:54.814994

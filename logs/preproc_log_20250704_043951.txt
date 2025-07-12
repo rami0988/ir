@@ -1,0 +1,9 @@
+Top similarities for antique: [0.54969525 0.5393522  0.5348593  0.5298444  0.52044374] at 2025-07-04 04:39:53.301866
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:39:54.009836
+Selected document at doc_id 284681_4, similarity: 0.5496952533721924, text: ['build', 'muscle'] at 2025-07-04 04:39:54.647836
+Selected document at doc_id 2604_3, similarity: 0.5393521785736084, text: ['aerobics', 'lift', 'weight'] at 2025-07-04 04:39:54.647836
+Selected document at doc_id 2528783_0, similarity: 0.534859299659729, text: ['muscle', 'create', 'muscle', 'exercise'] at 2025-07-04 04:39:54.648913
+Selected document at doc_id 4127574_5, similarity: 0.5298444032669067, text: ['try', 'website', 'httpwwwbodybuildingcomfunexerciseshtm'] at 2025-07-04 04:39:54.649852
+Selected document at doc_id 774370_11, similarity: 0.5204437375068665, text: ['muscle', 'weigh'] at 2025-07-04 04:39:54.649852
+Additional words for antique: build aerobics lift weight at 2025-07-04 04:39:54.649852
+Enhanced Query for antique: How can I develop leanbody and muscles? build aerobics lift weight at 2025-07-04 04:39:54.650836

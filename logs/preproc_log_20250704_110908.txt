@@ -1,0 +1,9 @@
+Top similarities for antique: [0.45585176 0.4558516  0.4558516  0.4558516  0.422731  ] at 2025-07-04 11:09:10.360835
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:09:11.102620
+Selected document at doc_id 4428257_1, similarity: 0.4558517634868622, text: ['wet'] at 2025-07-04 11:09:11.739965
+Selected document at doc_id 4106567_5, similarity: 0.45585161447525024, text: ['wet'] at 2025-07-04 11:09:11.739965
+Selected document at doc_id 360770_7, similarity: 0.45585161447525024, text: ['wet'] at 2025-07-04 11:09:11.739965
+Selected document at doc_id 3930867_0, similarity: 0.45585161447525024, text: ['wet'] at 2025-07-04 11:09:11.740966
+Selected document at doc_id 1801063_0, similarity: 0.4227310121059418, text: ['ears', 'check', 'could', 'infection', 'wax', 'ears'] at 2025-07-04 11:09:11.741578
+Additional words for antique: check could infection wax at 2025-07-04 11:09:11.741578
+Enhanced Query for antique: what does 'wet behind the ears' mean? check could infection wax at 2025-07-04 11:09:11.742594

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.69491816 0.56308323 0.5201468  0.5201468  0.5201468 ] at 2025-07-04 11:03:06.197485
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:03:07.059484
+Selected document at doc_id 3720632_7, similarity: 0.694918155670166, text: ['yawn', 'contagious'] at 2025-07-04 11:03:07.735578
+Selected document at doc_id 1742488_2, similarity: 0.5630832314491272, text: ['social', 'yawn', 'contagious'] at 2025-07-04 11:03:07.735578
+Selected document at doc_id 601072_4, similarity: 0.5201467871665955, text: ['contagious'] at 2025-07-04 11:03:07.736578
+Selected document at doc_id 208894_5, similarity: 0.5201467871665955, text: ['contagious'] at 2025-07-04 11:03:07.736578
+Selected document at doc_id 601072_1, similarity: 0.5201467871665955, text: ['contagious'] at 2025-07-04 11:03:07.737578
+Additional words for antique: social at 2025-07-04 11:03:07.737578
+Enhanced Query for antique: Why is yawning contagious? social at 2025-07-04 11:03:07.737578

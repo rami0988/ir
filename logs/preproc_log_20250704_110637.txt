@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5814522  0.5699585  0.56306887 0.54337    0.5331124 ] at 2025-07-04 11:06:39.805973
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:06:40.833187
+Selected document at doc_id 1253368_5, similarity: 0.5814521908760071, text: ['concentrate', 'mind'] at 2025-07-04 11:06:41.981802
+Selected document at doc_id 1408062_3, similarity: 0.569958508014679, text: ['lack', 'concentrationcommitment'] at 2025-07-04 11:06:41.981802
+Selected document at doc_id 971642_3, similarity: 0.5630688667297363, text: ['concentrate'] at 2025-07-04 11:06:41.982800
+Selected document at doc_id 329228_8, similarity: 0.5433700084686279, text: ['concentrate', 'not', 'anymore'] at 2025-07-04 11:06:41.983803
+Selected document at doc_id 1645561_3, similarity: 0.5331124067306519, text: ['try', 'concentrate', 'class'] at 2025-07-04 11:06:41.983803
+Additional words for antique: mind lack concentrationcommitment anymore at 2025-07-04 11:06:41.983803
+Enhanced Query for antique: Why am I not able to concentrate on my studies? mind lack concentrationcommitment anymore at 2025-07-04 11:06:41.984800

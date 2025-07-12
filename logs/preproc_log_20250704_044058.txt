@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4781857  0.47818565 0.47818565 0.47818565 0.44864738] at 2025-07-04 04:40:59.503978
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:00.222002
+Selected document at doc_id 3622016_12, similarity: 0.4781857132911682, text: ['truth', 'hurt'] at 2025-07-04 04:41:00.890003
+Selected document at doc_id 2349532_10, similarity: 0.47818565368652344, text: ['truth', 'hurt'] at 2025-07-04 04:41:00.891004
+Selected document at doc_id 941565_2, similarity: 0.47818565368652344, text: ['truth', 'hurt'] at 2025-07-04 04:41:00.891004
+Selected document at doc_id 1600828_4, similarity: 0.47818565368652344, text: ['truth', 'hurt'] at 2025-07-04 04:41:00.892003
+Selected document at doc_id 2735473_6, similarity: 0.4486473798751831, text: ['tough', 'love'] at 2025-07-04 04:41:00.892003
+Additional words for antique: truth tough at 2025-07-04 04:41:00.893004
+Enhanced Query for antique: Why does loving someone hurts like hell? truth tough at 2025-07-04 04:41:00.893004

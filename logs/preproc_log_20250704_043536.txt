@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5167399  0.45811027 0.4494241  0.44593504 0.4223988 ] at 2025-07-04 04:35:38.387612
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:39.111094
+Selected document at doc_id 1388368_2, similarity: 0.5167399048805237, text: ['library', 'research'] at 2025-07-04 04:35:39.747090
+Selected document at doc_id 2308266_1, similarity: 0.4581102728843689, text: ['library', 'campus'] at 2025-07-04 04:35:39.748110
+Selected document at doc_id 3180051_5, similarity: 0.4494240880012512, text: ['contact', 'local', 'college', 'help'] at 2025-07-04 04:35:39.748110
+Selected document at doc_id 1092058_2, similarity: 0.44593504071235657, text: ['online', 'bookstore'] at 2025-07-04 04:35:39.749443
+Selected document at doc_id 2673119_4, similarity: 0.42239880561828613, text: ['librarian', 'college'] at 2025-07-04 04:35:39.749443
+Additional words for antique: research campus contact local at 2025-07-04 04:35:39.749443
+Enhanced Query for antique: how is the library consider as a heart of university? research campus contact local at 2025-07-04 04:35:39.750491

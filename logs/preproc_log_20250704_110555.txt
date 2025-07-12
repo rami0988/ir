@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49038863 0.47033352 0.44270393 0.43506673 0.43416768] at 2025-07-04 11:05:57.208463
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:57.939524
+Selected document at doc_id 2103879_0, similarity: 0.4903886318206787, text: ['cold', 'windy', 'rainy'] at 2025-07-04 11:05:58.836396
+Selected document at doc_id 3625091_0, similarity: 0.4703335165977478, text: ['cold', 'rainy'] at 2025-07-04 11:05:58.836396
+Selected document at doc_id 1617049_5, similarity: 0.4427039325237274, text: ['high', 'humidity'] at 2025-07-04 11:05:58.837383
+Selected document at doc_id 2361539_7, similarity: 0.43506672978401184, text: ['warm', 'humid'] at 2025-07-04 11:05:58.838087
+Selected document at doc_id 4350515_1, similarity: 0.43416768312454224, text: ['cloudy', 'chilly'] at 2025-07-04 11:05:58.838087
+Additional words for antique: windy rainy high humidity at 2025-07-04 11:05:58.838087
+Enhanced Query for antique: Why do we wee a lot in the cold weather especially at night? windy rainy high humidity at 2025-07-04 11:05:58.839104

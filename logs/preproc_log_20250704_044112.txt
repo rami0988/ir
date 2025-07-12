@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49251744 0.4909203  0.49092028 0.4897894  0.48026145] at 2025-07-04 04:41:13.960735
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:14.686257
+Selected document at doc_id 426768_8, similarity: 0.4925174415111542, text: ['christianity', 'rise', 'legalism'] at 2025-07-04 04:41:15.321024
+Selected document at doc_id 4202360_1, similarity: 0.4909203052520752, text: ['cause', 'effect'] at 2025-07-04 04:41:15.322007
+Selected document at doc_id 4242099_12, similarity: 0.4909202754497528, text: ['cause', 'effect'] at 2025-07-04 04:41:15.322007
+Selected document at doc_id 4324485_4, similarity: 0.4897893965244293, text: ['cause', 'inflation'] at 2025-07-04 04:41:15.323153
+Selected document at doc_id 3056001_0, similarity: 0.4802614450454712, text: ['jesus', 'die', 'rise'] at 2025-07-04 04:41:15.323153
+Additional words for antique: christianity legalism inflation jesus at 2025-07-04 04:41:15.324158
+Enhanced Query for antique: Causes and effects of the rise of Christanity? christianity legalism inflation jesus at 2025-07-04 04:41:15.324158

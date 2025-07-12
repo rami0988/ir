@@ -1,0 +1,9 @@
+Top similarities for antique: [0.55883324 0.5499477  0.5362816  0.53433794 0.51727504] at 2025-07-04 10:59:21.431798
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:59:22.173799
+Selected document at doc_id 675953_8, similarity: 0.5588332414627075, text: ['origin', 'india', 'bharata', 'bha', 'bhava', 'emotion', 'raga', 'melody', 'tala', 'rhythm'] at 2025-07-04 10:59:22.849831
+Selected document at doc_id 1017690_0, similarity: 0.5499476790428162, text: ['history', 'indian', 'music', 'acient', 'indian', 'histery'] at 2025-07-04 10:59:22.850845
+Selected document at doc_id 3014981_7, similarity: 0.5362815856933594, text: ['indian', 'origin'] at 2025-07-04 10:59:22.850845
+Selected document at doc_id 1017690_2, similarity: 0.5343379378318787, text: ['indian', 'music', 'start', 'wid', 'bharat', 'treatisein', '15th', 'century'] at 2025-07-04 10:59:22.852223
+Selected document at doc_id 1176743_2, similarity: 0.5172750353813171, text: ['indians', 'rain', 'dance'] at 2025-07-04 10:59:22.852223
+Additional words for antique: origin india bharata bha at 2025-07-04 10:59:22.852223
+Enhanced Query for antique: what is the history of indian music? origin india bharata bha at 2025-07-04 10:59:22.853228

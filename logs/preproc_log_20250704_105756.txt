@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4954139  0.49153098 0.45741546 0.44965065 0.43667656] at 2025-07-04 10:57:57.479213
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:57:58.220176
+Selected document at doc_id 3059561_3, similarity: 0.4954138994216919, text: ['golden', 'retrievers', 'longer', 'hair', 'reddish', 'tint', 'pointier', 'snout', 'lab', 'generally', 'rounder', 'head'] at 2025-07-04 10:57:58.875913
+Selected document at doc_id 4281301_24, similarity: 0.49153098464012146, text: ['dog', 'ugly'] at 2025-07-04 10:57:58.876912
+Selected document at doc_id 3904757_9, similarity: 0.45741546154022217, text: ['breed', 'dog'] at 2025-07-04 10:57:58.876912
+Selected document at doc_id 3633625_5, similarity: 0.4496506452560425, text: ['smaller', 'breed', 'dog'] at 2025-07-04 10:57:58.877984
+Selected document at doc_id 2939205_5, similarity: 0.436676561832428, text: ['teeth', 'grey', 'hairs', 'around', 'muzzle'] at 2025-07-04 10:57:58.877984
+Additional words for antique: golden retrievers longer hair at 2025-07-04 10:57:58.877984
+Enhanced Query for antique: why do people judge a dog by what he looks like? golden retrievers longer hair at 2025-07-04 10:57:58.878990

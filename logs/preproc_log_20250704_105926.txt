@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6301261 0.5497413 0.5419917 0.5419917 0.5419917] at 2025-07-04 10:59:27.677952
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:59:28.478954
+Selected document at doc_id 1846078_1, similarity: 0.6301261186599731, text: ['freedom', 'religion'] at 2025-07-04 10:59:29.148881
+Selected document at doc_id 2418572_31, similarity: 0.5497413277626038, text: ['freedom', 'speech', 'expression', 'religion'] at 2025-07-04 10:59:29.148881
+Selected document at doc_id 4141396_10, similarity: 0.5419917106628418, text: ['freedom', 'speech'] at 2025-07-04 10:59:29.148881
+Selected document at doc_id 3149170_6, similarity: 0.5419917106628418, text: ['freedom', 'speech'] at 2025-07-04 10:59:29.149886
+Selected document at doc_id 1782300_4, similarity: 0.5419917106628418, text: ['freedom', 'speech'] at 2025-07-04 10:59:29.150881
+Additional words for antique: religion speech expression at 2025-07-04 10:59:29.150881
+Enhanced Query for antique: Why is religious freedom more important today? religion speech expression at 2025-07-04 10:59:29.150881

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.66691816 0.5943068  0.576326   0.5750544  0.573075  ] at 2025-07-04 04:41:16.818388
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:17.532891
+Selected document at doc_id 188331_7, similarity: 0.666918158531189, text: ['chemistry', 'understand'] at 2025-07-04 04:41:18.168940
+Selected document at doc_id 194978_0, similarity: 0.5943068265914917, text: ['ask', 'chemistry', 'teacher'] at 2025-07-04 04:41:18.168940
+Selected document at doc_id 3141299_5, similarity: 0.5763260126113892, text: ['study', 'physical', 'reactions'] at 2025-07-04 04:41:18.170502
+Selected document at doc_id 1244207_8, similarity: 0.575054407119751, text: ['chemistry', 'say'] at 2025-07-04 04:41:18.171110
+Selected document at doc_id 3662519_10, similarity: 0.573074996471405, text: ['chemistry', 'change'] at 2025-07-04 04:41:18.171110
+Additional words for antique: understand ask teacher study at 2025-07-04 04:41:18.172116
+Enhanced Query for antique: How is th Chemistry is a basic of Science? understand ask teacher study at 2025-07-04 04:41:18.172116

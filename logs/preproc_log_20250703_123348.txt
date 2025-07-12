@@ -1,0 +1,9 @@
+Top similarities for beir: [0.6817073 0.645772  0.603215  0.5930276 0.586228 ] at 2025-07-03 12:33:52.379171
+Loaded doc_id_mapping with 522931 entries at 2025-07-03 12:33:53.347171
+Selected document at doc_id 285207, similarity: 0.6817073225975037, text: ['frontend', 'developer'] at 2025-07-03 12:33:54.190173
+Selected document at doc_id 169100, similarity: 0.6457719802856445, text: ['become', 'frontend', 'developer'] at 2025-07-03 12:33:54.191172
+Selected document at doc_id 8498, similarity: 0.6032149791717529, text: ['backend', 'developer'] at 2025-07-03 12:33:54.192172
+Selected document at doc_id 183555, similarity: 0.5930275917053223, text: ['frontend', 'backend', 'development'] at 2025-07-03 12:33:54.192172
+Selected document at doc_id 523870, similarity: 0.5862280130386353, text: ['become', 'websoftware', 'developer'] at 2025-07-03 12:33:54.193174
+Additional words for beir: frontend become backend development at 2025-07-03 12:33:54.193174
+Enhanced Query for beir: ,How is work as a front end developer? frontend become backend development at 2025-07-03 12:33:54.212174

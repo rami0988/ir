@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5799434  0.5675043  0.52321863 0.51453775 0.51453775] at 2025-07-04 10:57:23.894084
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:57:24.668083
+Selected document at doc_id 1082990_5, similarity: 0.5799434185028076, text: ['get', 'rid', 'mice', 'whatever', 'eat'] at 2025-07-04 10:57:25.342082
+Selected document at doc_id 3152320_11, similarity: 0.5675042867660522, text: ['mouse', 'trap', 'mouse', 'exterminator'] at 2025-07-04 10:57:25.343082
+Selected document at doc_id 3907899_8, similarity: 0.5232186317443848, text: ['keep', 'mice'] at 2025-07-04 10:57:25.343082
+Selected document at doc_id 547250_12, similarity: 0.5145377516746521, text: ['mouse', 'trap'] at 2025-07-04 10:57:25.344083
+Selected document at doc_id 2226616_10, similarity: 0.5145377516746521, text: ['mouse', 'trap'] at 2025-07-04 10:57:25.345104
+Additional words for antique: mice whatever eat mouse at 2025-07-04 10:57:25.345104
+Enhanced Query for antique: I have mice.How do I get rid of them humanely? mice whatever eat mouse at 2025-07-04 10:57:25.346082

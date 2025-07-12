@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5258902  0.48795062 0.48299053 0.47456256 0.47452578] at 2025-07-04 11:05:13.285958
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:13.988411
+Selected document at doc_id 3560203_2, similarity: 0.5258901715278625, text: ['jesus', 'bear'] at 2025-07-04 11:05:14.606832
+Selected document at doc_id 138535_12, similarity: 0.4879506230354309, text: ['jesus', 'forgive'] at 2025-07-04 11:05:14.607833
+Selected document at doc_id 636226_34, similarity: 0.4829905331134796, text: ['repent', 'ask', 'forgiveness', 'god', 'forgive', 'love'] at 2025-07-04 11:05:14.607833
+Selected document at doc_id 587919_7, similarity: 0.47456255555152893, text: ['bear', 'christian'] at 2025-07-04 11:05:14.608831
+Selected document at doc_id 2835161_9, similarity: 0.4745257794857025, text: ['repent', 'sin', 'accept', 'jusus', 'christ', 'saviour'] at 2025-07-04 11:05:14.609835
+Additional words for antique: forgive ask forgiveness god at 2025-07-04 11:05:14.609835
+Enhanced Query for antique: How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou? forgive ask forgiveness god at 2025-07-04 11:05:14.609835

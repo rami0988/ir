@@ -1,0 +1,9 @@
+Top similarities for antique: [0.59476805 0.5947679  0.5777415  0.5732378  0.56126   ] at 2025-07-04 04:41:36.629296
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:37.355296
+Selected document at doc_id 298001_7, similarity: 0.5947680473327637, text: ['taco', 'bell'] at 2025-07-04 04:41:37.990055
+Selected document at doc_id 3164414_13, similarity: 0.5947679281234741, text: ['taco', 'bell'] at 2025-07-04 04:41:37.991086
+Selected document at doc_id 4406669_41, similarity: 0.5777415037155151, text: ['taco'] at 2025-07-04 04:41:37.991086
+Selected document at doc_id 9560_3, similarity: 0.5732377767562866, text: ['taco', 'bell', 'mcdonalds'] at 2025-07-04 04:41:37.991086
+Selected document at doc_id 4406669_11, similarity: 0.5612599849700928, text: ['burritoes', 'tacos'] at 2025-07-04 04:41:37.992401
+Additional words for antique: mcdonalds burritoes tacos at 2025-07-04 04:41:37.992401
+Enhanced Query for antique: What do you order at Taco Bell? mcdonalds burritoes tacos at 2025-07-04 04:41:37.993307

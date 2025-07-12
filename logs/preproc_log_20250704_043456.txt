@@ -1,0 +1,9 @@
+Top similarities for antique: [0.50781614 0.4697922  0.44298685 0.43693316 0.42355907] at 2025-07-04 04:34:57.904646
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:34:58.581616
+Selected document at doc_id 1607303_13, similarity: 0.5078161358833313, text: ['teenagers'] at 2025-07-04 04:34:59.229970
+Selected document at doc_id 2841427_5, similarity: 0.4697921872138977, text: ['teenager'] at 2025-07-04 04:34:59.229970
+Selected document at doc_id 2841427_6, similarity: 0.4429868459701538, text: ['adolescent', 'teenager'] at 2025-07-04 04:34:59.230939
+Selected document at doc_id 1944018_23, similarity: 0.43693315982818604, text: ['think', 'teens', 'vote', 'come', 'teen'] at 2025-07-04 04:34:59.231516
+Selected document at doc_id 1944018_25, similarity: 0.4235590696334839, text: ['teens', 'vote', '1819', 'otherwise', 'teenagers', 'dont', 'realize', 'important', 'election', 'see', 'candidate', 'discuss', 'topics', 'young', 'teenagers', 'really', 'dont', 'understand', 'even', 'care', 'instance', 'candidate', 'currently', 'office', 'run', 'typically', 'claim', 'lower', 'tax', 'would', 'teens', 'know', 'go', 'wouldnt', 'dont', 'pay', 'bill', 'age', 'teen', 'typically', 'college', 'pay', 'tax', 'know', 'whether', 'not', 'candidate', 'indeed', 'tax', 'cut'] at 2025-07-04 04:34:59.231516
+Additional words for antique: teenager adolescent think teens at 2025-07-04 04:34:59.232522
+Enhanced Query for antique: Why can't teenagers vote? teenager adolescent think teens at 2025-07-04 04:34:59.232522

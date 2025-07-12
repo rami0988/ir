@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5697534  0.56724286 0.5636815  0.54675055 0.53068   ] at 2025-07-04 11:06:48.585654
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:06:49.467827
+Selected document at doc_id 1033025_0, similarity: 0.5697534084320068, text: ['well', 'know', 'milky', 'way', 'galaxy'] at 2025-07-04 11:06:50.548282
+Selected document at doc_id 3978312_0, similarity: 0.5672428607940674, text: ['galaxies', 'rotate', 'eachother', 'giant', 'bundle', 'superclusters', 'galaxy', 'milky', 'way', 'part', 'virgo', 'supercluster'] at 2025-07-04 11:06:50.549278
+Selected document at doc_id 178242_1, similarity: 0.5636814832687378, text: ['universe', 'expand', 'milky', 'way', 'andromeda', 'galaxy', 'distance', 'two', 'galaxies', 'decrease'] at 2025-07-04 11:06:50.550277
+Selected document at doc_id 1820834_8, similarity: 0.546750545501709, text: ['nebula', 'gas'] at 2025-07-04 11:06:50.550277
+Selected document at doc_id 2493620_3, similarity: 0.5306800007820129, text: ['nebula', 'cloud', 'gas', 'dust', 'space'] at 2025-07-04 11:06:50.550277
+Additional words for antique: well know galaxy galaxies at 2025-07-04 11:06:50.551276
+Enhanced Query for antique: what is the term milky way? well know galaxy galaxies at 2025-07-04 11:06:50.551276

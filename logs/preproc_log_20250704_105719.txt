@@ -1,0 +1,5 @@
+Top similarities for antique: [0.40008172 0.3739777  0.3674724  0.36293802 0.36208713] at 2025-07-04 10:57:20.763083
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:57:21.553094
+Selected document at doc_id 3004570_1, similarity: 0.40008172392845154, text: ['fe2'] at 2025-07-04 10:57:22.240090
+Additional words for antique: fe2 at 2025-07-04 10:57:22.240090
+Enhanced Query for antique: How do I determine the charge of the iron ion in FeCl3? fe2 at 2025-07-04 10:57:22.241084

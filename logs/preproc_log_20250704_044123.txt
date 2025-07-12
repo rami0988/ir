@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5199073  0.47629672 0.4762966  0.4762966  0.47452486] at 2025-07-04 04:41:25.350601
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:26.057599
+Selected document at doc_id 2631387_1, similarity: 0.5199072957038879, text: ['problem', 'wrists'] at 2025-07-04 04:41:26.678121
+Selected document at doc_id 4393055_2, similarity: 0.47629672288894653, text: ['cut', 'arm'] at 2025-07-04 04:41:26.679120
+Selected document at doc_id 806776_5, similarity: 0.476296603679657, text: ['cut', 'arm'] at 2025-07-04 04:41:26.679120
+Selected document at doc_id 3751490_0, similarity: 0.476296603679657, text: ['cut', 'arm'] at 2025-07-04 04:41:26.679120
+Selected document at doc_id 716946_6, similarity: 0.4745248556137085, text: ['wrist'] at 2025-07-04 04:41:26.680625
+Additional words for antique: problem arm wrist at 2025-07-04 04:41:26.680625
+Enhanced Query for antique: how can I hide the cuts on my wrists? problem arm wrist at 2025-07-04 04:41:26.681630

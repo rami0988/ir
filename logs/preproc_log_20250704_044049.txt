@@ -1,0 +1,3 @@
+Top similarities for antique: [0.38645995 0.32469684 0.29561925 0.2916813  0.29032543] at 2025-07-04 04:40:50.890936
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:51.594904
+No similar documents found for antique with sufficient similarity at 2025-07-04 04:40:52.225905

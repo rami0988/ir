@@ -1,0 +1,6 @@
+Top similarities for antique: [0.40991563 0.40186775 0.3928022  0.39154458 0.3831406 ] at 2025-07-04 11:08:14.086248
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:08:14.813976
+Selected document at doc_id 2305498_2, similarity: 0.40991562604904175, text: ['units', 'pressure'] at 2025-07-04 11:08:15.725540
+Selected document at doc_id 1284394_0, similarity: 0.40186774730682373, text: ['pressure', 'difference', 'occur', 'water', 'vapour', 'go', 'stomata', 'pressure', 'leave', 'decrease', 'hence', 'water', 'suck', 'towards', 'lower', 'pressure', 'capillarity', 'root', 'pressure', 'also', 'help'] at 2025-07-04 11:08:15.725540
+Additional words for antique: units difference occur vapour at 2025-07-04 11:08:15.726253
+Enhanced Query for antique: How Does Water Pressure Change? units difference occur vapour at 2025-07-04 11:08:15.726253

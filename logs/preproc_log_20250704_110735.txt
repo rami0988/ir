@@ -1,0 +1,9 @@
+Top similarities for antique: [0.57099926 0.512667   0.49032488 0.48963785 0.48384607] at 2025-07-04 11:07:37.157920
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:07:37.973848
+Selected document at doc_id 864996_1, similarity: 0.570999264717102, text: ['germans'] at 2025-07-04 11:07:38.753552
+Selected document at doc_id 3942811_14, similarity: 0.5126670002937317, text: ['germans', 'invent', 'alot', 'stuffalbert', 'einstein', 'also', 'germany', 'adolf', 'hitler', 'hate', 'bastard', 'germans', 'think', 'america', 'bush', 'germanamerican', 'think', 'america', 'suck', 'becouse', 'bush'] at 2025-07-04 11:07:38.753552
+Selected document at doc_id 2227338_2, similarity: 0.49032488465309143, text: ['reason', 'germans', 'dont', 'like', 'turks'] at 2025-07-04 11:07:38.754553
+Selected document at doc_id 691790_3, similarity: 0.4896378517150879, text: ['germans', 'dark', 'age'] at 2025-07-04 11:07:38.755552
+Selected document at doc_id 1671791_17, similarity: 0.4838460683822632, text: ['many', 'people', 'prefert', 'suck', 'bunch', 'inbred', 'germans'] at 2025-07-04 11:07:38.755552
+Additional words for antique: invent alot stuffalbert einstein at 2025-07-04 11:07:38.755552
+Enhanced Query for antique: Why do people say Germans are racists? invent alot stuffalbert einstein at 2025-07-04 11:07:38.756554

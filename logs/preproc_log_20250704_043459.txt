@@ -1,0 +1,9 @@
+Top similarities for antique: [0.56988657 0.5216508  0.5216508  0.5216508  0.5208578 ] at 2025-07-04 04:35:00.755522
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:01.449522
+Selected document at doc_id 2577358_6, similarity: 0.5698865652084351, text: ['bush', 'plan', '911'] at 2025-07-04 04:35:02.087540
+Selected document at doc_id 3439245_12, similarity: 0.5216507911682129, text: ['911'] at 2025-07-04 04:35:02.088540
+Selected document at doc_id 3487974_5, similarity: 0.5216507911682129, text: ['911'] at 2025-07-04 04:35:02.089541
+Selected document at doc_id 610726_0, similarity: 0.5216507911682129, text: ['911'] at 2025-07-04 04:35:02.089541
+Selected document at doc_id 2024458_1, similarity: 0.5208578109741211, text: ['blame', 'god', '911'] at 2025-07-04 04:35:02.091540
+Additional words for antique: plan blame god at 2025-07-04 04:35:02.091540
+Enhanced Query for antique: Why did the Bush Admin cover up 9/11? plan blame god at 2025-07-04 04:35:02.092541

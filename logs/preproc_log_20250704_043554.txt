@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6508744  0.55918837 0.548966   0.54617184 0.5408079 ] at 2025-07-04 04:35:55.921314
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:56.641309
+Selected document at doc_id 3251870_3, similarity: 0.6508743762969971, text: ['277', 'regular'] at 2025-07-04 04:35:57.280515
+Selected document at doc_id 375444_40, similarity: 0.5591883659362793, text: ['2096', '296'] at 2025-07-04 04:35:57.281516
+Selected document at doc_id 2538279_0, similarity: 0.5489659905433655, text: ['254'] at 2025-07-04 04:35:57.281516
+Selected document at doc_id 1940317_1, similarity: 0.5461718440055847, text: ['227', '314'] at 2025-07-04 04:35:57.281516
+Selected document at doc_id 364275_5, similarity: 0.5408079028129578, text: ['332', '253'] at 2025-07-04 04:35:57.283181
+Additional words for antique: regular 2096 296 254 at 2025-07-04 04:35:57.283181
+Enhanced Query for antique: how to get 277 V AC ? regular 2096 296 254 at 2025-07-04 04:35:57.284203

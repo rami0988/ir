@@ -1,0 +1,5 @@
+Top similarities for antique: [0.41005394 0.38180906 0.3736344  0.37067991 0.3610126 ] at 2025-07-04 04:38:19.082085
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:19.811104
+Selected document at doc_id 3034124_1, similarity: 0.41005393862724304, text: ['zerogravity', 'environment', 'astronauts', 'return', 'earth', 'taller', 'leave', 'lay', 'spine', 'release', 'pressure', 'taller', 'wake', 'go', 'sleep'] at 2025-07-04 04:38:20.449091
+Additional words for antique: zerogravity environment return earth at 2025-07-04 04:38:20.449091
+Enhanced Query for antique: How does spending prolonged time in microgravity affect the bodies of astronauts? zerogravity environment return earth at 2025-07-04 04:38:20.450091

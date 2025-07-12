@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49822044 0.45109177 0.44638792 0.44432494 0.44335467] at 2025-07-04 04:34:22.651485
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:34:23.908507
+Selected document at doc_id 773251_4, similarity: 0.49822044372558594, text: ['passport'] at 2025-07-04 04:34:25.157496
+Selected document at doc_id 2063332_1, similarity: 0.4510917663574219, text: ['show', 'proof', 'citizenship'] at 2025-07-04 04:34:25.158506
+Selected document at doc_id 3353611_1, similarity: 0.44638791680336, text: ['fraud'] at 2025-07-04 04:34:25.159466
+Selected document at doc_id 4206702_6, similarity: 0.44432494044303894, text: ['crook', 'liars'] at 2025-07-04 04:34:25.160636
+Selected document at doc_id 782177_1, similarity: 0.44335466623306274, text: ['current', 'passport'] at 2025-07-04 04:34:25.161672
+Additional words for antique: passport show proof citizenship at 2025-07-04 04:34:25.162700
+Enhanced Query for antique: how do crooks  make  fake   passports  ? passport show proof citizenship at 2025-07-04 04:34:25.165680

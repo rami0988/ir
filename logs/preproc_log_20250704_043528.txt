@@ -1,0 +1,9 @@
+Top similarities for antique: [0.45305145 0.43451738 0.4345173  0.4266941  0.42326683] at 2025-07-04 04:35:29.463471
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:30.161471
+Selected document at doc_id 2899477_0, similarity: 0.45305144786834717, text: ['aircraft'] at 2025-07-04 04:35:30.789429
+Selected document at doc_id 1535955_4, similarity: 0.43451738357543945, text: ['higher', 'altitude'] at 2025-07-04 04:35:30.789429
+Selected document at doc_id 4223464_3, similarity: 0.4345172941684723, text: ['higher', 'altitude'] at 2025-07-04 04:35:30.790428
+Selected document at doc_id 2155903_4, similarity: 0.4266940951347351, text: ['airplanes', 'expensive'] at 2025-07-04 04:35:30.791696
+Selected document at doc_id 2010711_11, similarity: 0.42326682806015015, text: ['fly', 'plane'] at 2025-07-04 04:35:30.791696
+Additional words for antique: aircraft higher altitude expensive at 2025-07-04 04:35:30.791696
+Enhanced Query for antique: Why do airplanes fly so high? aircraft higher altitude expensive at 2025-07-04 04:35:30.792731

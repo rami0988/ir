@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4691486  0.43777296 0.42751926 0.42096227 0.41533017] at 2025-07-04 04:32:50.379956
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:32:51.811607
+Selected document at doc_id 2917760_4, similarity: 0.4691486060619354, text: ['immunity'] at 2025-07-04 04:32:53.471637
+Selected document at doc_id 4448097_1, similarity: 0.4377729594707489, text: ['innate', 'immunity', 'immunity', 'occur', 'naturally', 'result', 'persons', 'genetic', 'constitution', 'physiology', 'not', 'arise', 'previous', 'infection', 'vaccination', 'also', 'call', 'genetic', 'immunity', 'inherent', 'immunity', 'native', 'immunity', 'natural', 'immunity', 'nonspecific', 'immunity'] at 2025-07-04 04:32:53.472636
+Selected document at doc_id 4469837_1, similarity: 0.4275192618370056, text: ['evolution', 'nothing', 'immune', 'system'] at 2025-07-04 04:32:53.474641
+Selected document at doc_id 2430174_1, similarity: 0.42096227407455444, text: ['suppress', 'immune', 'system'] at 2025-07-04 04:32:53.475662
+Selected document at doc_id 3547456_1, similarity: 0.415330171585083, text: ['type', 'inflammation'] at 2025-07-04 04:32:53.476642
+Additional words for antique: occur naturally result persons at 2025-07-04 04:32:53.477636
+Enhanced Query for antique: what is innate immunity? occur naturally result persons at 2025-07-04 04:32:53.479636

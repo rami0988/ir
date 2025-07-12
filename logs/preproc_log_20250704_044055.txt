@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5428224  0.53099525 0.53099525 0.530995   0.52458966] at 2025-07-04 04:40:56.616979
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:57.326984
+Selected document at doc_id 2022468_18, similarity: 0.5428224205970764, text: ['love', 'muslim'] at 2025-07-04 04:40:57.982954
+Selected document at doc_id 1269142_7, similarity: 0.53099524974823, text: ['muslim'] at 2025-07-04 04:40:57.983939
+Selected document at doc_id 4354210_6, similarity: 0.53099524974823, text: ['muslim'] at 2025-07-04 04:40:57.983939
+Selected document at doc_id 1283351_12, similarity: 0.5309950113296509, text: ['muslim'] at 2025-07-04 04:40:57.983939
+Selected document at doc_id 112672_4, similarity: 0.5245896577835083, text: ['not', 'muslims'] at 2025-07-04 04:40:57.984938
+Additional words for antique: love muslim not at 2025-07-04 04:40:57.984938
+Enhanced Query for antique: Muslims Are The Happiest People Ever, Why? love muslim not at 2025-07-04 04:40:57.985937

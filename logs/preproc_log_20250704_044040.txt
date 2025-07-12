@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5173968  0.49655658 0.47976553 0.46057925 0.45855463] at 2025-07-04 04:40:42.177265
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:42.937304
+Selected document at doc_id 3167183_11, similarity: 0.5173968076705933, text: ['snow'] at 2025-07-04 04:40:43.573338
+Selected document at doc_id 1750852_3, similarity: 0.4965565800666809, text: ['get', 'disneyland'] at 2025-07-04 04:40:43.573338
+Selected document at doc_id 551908_4, similarity: 0.47976553440093994, text: ['visit', 'disneyland'] at 2025-07-04 04:40:43.573338
+Selected document at doc_id 2436679_1, similarity: 0.4605792462825775, text: ['alaska', 'snow'] at 2025-07-04 04:40:43.574750
+Selected document at doc_id 2865888_18, similarity: 0.45855462551116943, text: ['icecream'] at 2025-07-04 04:40:43.574750
+Additional words for antique: get visit alaska icecream at 2025-07-04 04:40:43.575766
+Enhanced Query for antique: how does disneyland make it snow? get visit alaska icecream at 2025-07-04 04:40:43.575766

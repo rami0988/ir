@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6410904  0.55499077 0.5137142  0.5098746  0.5059506 ] at 2025-07-04 04:37:01.989036
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:37:02.689208
+Selected document at doc_id 1082595_1, similarity: 0.6410903930664062, text: ['technology', 'mobile'] at 2025-07-04 04:37:03.314787
+Selected document at doc_id 2785567_3, similarity: 0.5549907684326172, text: ['wireless', 'technology', 'basically'] at 2025-07-04 04:37:03.315814
+Selected document at doc_id 3845806_1, similarity: 0.5137141942977905, text: ['basically', 'cellphone', 'web', 'access'] at 2025-07-04 04:37:03.315814
+Selected document at doc_id 3990682_1, similarity: 0.5098745822906494, text: ['cellphone'] at 2025-07-04 04:37:03.316784
+Selected document at doc_id 3813322_3, similarity: 0.5059506297111511, text: ['technology'] at 2025-07-04 04:37:03.317784
+Additional words for antique: wireless basically cellphone web at 2025-07-04 04:37:03.317784
+Enhanced Query for antique: what is meant by mobile technology? wireless basically cellphone web at 2025-07-04 04:37:03.318844

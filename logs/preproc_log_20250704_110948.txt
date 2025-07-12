@@ -1,0 +1,9 @@
+Top similarities for antique: [0.64883244 0.64883244 0.64883244 0.56385636 0.5325862 ] at 2025-07-04 11:09:50.038599
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:09:50.821654
+Selected document at doc_id 1782300_4, similarity: 0.6488324403762817, text: ['freedom', 'speech'] at 2025-07-04 11:09:51.534045
+Selected document at doc_id 3149170_6, similarity: 0.6488324403762817, text: ['freedom', 'speech'] at 2025-07-04 11:09:51.535035
+Selected document at doc_id 4141396_10, similarity: 0.6488324403762817, text: ['freedom', 'speech'] at 2025-07-04 11:09:51.535035
+Selected document at doc_id 1689674_8, similarity: 0.5638563632965088, text: ['right', 'freedom', 'speech'] at 2025-07-04 11:09:51.536041
+Selected document at doc_id 3969612_9, similarity: 0.5325862169265747, text: ['freedom', 'speech', 'dont', 'hate'] at 2025-07-04 11:09:51.537035
+Additional words for antique: right hate at 2025-07-04 11:09:51.537035
+Enhanced Query for antique: Freedom of Speech - why don't people understand how to use it? right hate at 2025-07-04 11:09:51.538034

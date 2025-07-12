@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5906316  0.5784804  0.56848717 0.5681908  0.5560152 ] at 2025-07-04 04:38:30.540637
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:31.239230
+Selected document at doc_id 2667973_0, similarity: 0.5906316041946411, text: ['pitbull', 'whine', 'exhibit', 'whine', 'make', 'react', 'certain', 'way', 'give', 'attentionas', 'pitbull', 'owner', 'pitbulls', 'love', 'attention', 'activity', 'even', 'get', 'walk', 'around', 'house', 'follow', 'theyll', 'enjoy', 'best', 'advice', 'get', 'pitbull', 'normal', 'schedule', 'eat', 'go', 'outside', 'play', 'whine', 'decrease', 'eventually', 'cease'] at 2025-07-04 04:38:31.868338
+Selected document at doc_id 3523258_1, similarity: 0.5784804224967957, text: ['pitbull', 'not'] at 2025-07-04 04:38:31.869212
+Selected document at doc_id 3818383_3, similarity: 0.5684871673583984, text: ['ask', 'pitbull'] at 2025-07-04 04:38:31.869212
+Selected document at doc_id 3703662_4, similarity: 0.5681908130645752, text: ['pitbull', 'love', 'pit', 'bull'] at 2025-07-04 04:38:31.870226
+Selected document at doc_id 1391529_5, similarity: 0.5560151934623718, text: ['well', 'think', 'mislead', 'pitbulls', 'sweet', 'gentle', 'animals', 'usually', 'get', 'violent', 'owners', 'mistreat', 'not', 'theyre', 'violent', 'personality', 'people', 'think', 'pitbulls', 'go', 'violent', 'dont', 'love', 'care', 'two', 'things', 'make', 'great', 'love', 'pet'] at 2025-07-04 04:38:31.870226
+Additional words for antique: whine exhibit make react at 2025-07-04 04:38:31.870226
+Enhanced Query for antique: How do i get my pitbull more agressive? whine exhibit make react at 2025-07-04 04:38:31.871225

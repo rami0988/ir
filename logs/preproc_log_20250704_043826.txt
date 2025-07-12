@@ -1,0 +1,8 @@
+Top similarities for antique: [0.48266307 0.46387345 0.45353872 0.4221406  0.39799318] at 2025-07-04 04:38:27.689220
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:28.404223
+Selected document at doc_id 3806355_1, similarity: 0.4826630651950836, text: ['genetics', 'heredity', 'menopause'] at 2025-07-04 04:38:29.035253
+Selected document at doc_id 3422923_0, similarity: 0.4638734459877014, text: ['hormones', 'shave', 'everyday'] at 2025-07-04 04:38:29.035253
+Selected document at doc_id 3743203_1, similarity: 0.453538715839386, text: ['mean', 'baldness', 'genetic', 'mother', 'father'] at 2025-07-04 04:38:29.035253
+Selected document at doc_id 1655513_9, similarity: 0.42214059829711914, text: ['cuz', 'dont', 'shave'] at 2025-07-04 04:38:29.036586
+Additional words for antique: genetics heredity menopause hormones at 2025-07-04 04:38:29.036586
+Enhanced Query for antique: what causes gray facial hair in men? genetics heredity menopause hormones at 2025-07-04 04:38:29.037595

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5347538 0.5213213 0.5190427 0.5139472 0.5087771] at 2025-07-04 04:41:31.016893
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:31.727440
+Selected document at doc_id 2969756_2, similarity: 0.5347537994384766, text: ['becuz', 'dont', 'wash', 'hand'] at 2025-07-04 04:41:32.350053
+Selected document at doc_id 120285_6, similarity: 0.5213212966918945, text: ['drink', 'water', 'use', 'vaseline'] at 2025-07-04 04:41:32.350053
+Selected document at doc_id 208790_13, similarity: 0.5190426707267761, text: ['rinse', 'water'] at 2025-07-04 04:41:32.351022
+Selected document at doc_id 3953772_3, similarity: 0.5139471888542175, text: ['wash', 'privates', 'soap', 'water'] at 2025-07-04 04:41:32.351022
+Selected document at doc_id 4223146_0, similarity: 0.5087770819664001, text: ['change', 'underwear', 'daily', 'try', 'wash', 'pipe', 'urinate', 'wash', 'instead', 'wipe', 'reduce', 'bacteria', 'buildup', 'reduce', 'irritationitching'] at 2025-07-04 04:41:32.352239
+Additional words for antique: becuz dont drink water at 2025-07-04 04:41:32.352239
+Enhanced Query for antique: Why some men never wash their hands after using the Urinal/Toilet? becuz dont drink water at 2025-07-04 04:41:32.353246

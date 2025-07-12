@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5139455  0.5014233  0.46594134 0.44980437 0.4450754 ] at 2025-07-04 11:00:18.938222
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:00:19.702219
+Selected document at doc_id 812036_4, similarity: 0.5139455199241638, text: ['acnewell', 'seabreeze', 'work', 'proactive'] at 2025-07-04 11:00:20.364221
+Selected document at doc_id 167593_1, similarity: 0.5014232993125916, text: ['help', 'clear', 'prevent', 'acne'] at 2025-07-04 11:00:20.364221
+Selected document at doc_id 999482_3, similarity: 0.46594133973121643, text: ['wash', 'face', 'try', 'clearisil'] at 2025-07-04 11:00:20.365314
+Selected document at doc_id 2432405_0, similarity: 0.4498043656349182, text: ['get', 'pill', 'dermatologist'] at 2025-07-04 11:00:20.366217
+Selected document at doc_id 3516858_6, similarity: 0.4450753927230835, text: ['try', 'oil', 'primrose', 'e45', 'cream'] at 2025-07-04 11:00:20.366217
+Additional words for antique: acnewell seabreeze work proactive at 2025-07-04 11:00:20.367218
+Enhanced Query for antique: How can I get rid of pimples on my back? acnewell seabreeze work proactive at 2025-07-04 11:00:20.367218

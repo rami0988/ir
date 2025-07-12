@@ -1,0 +1,25 @@
+2025-07-08 12:18:12,672 - INFO - Connected to MongoDB successfully
+2025-07-08 12:18:12,757 - INFO - Uploaded file tfidf_vectorizer.joblib to antique.representation using GridFS
+2025-07-08 12:18:25,863 - INFO - Uploaded file embeddings_matrix.joblib to antique.representation using GridFS
+2025-07-08 12:18:42,693 - INFO - Uploaded file embeddings_vectorizer.joblib to antique.representation using GridFS
+2025-07-08 12:18:51,691 - INFO - Uploaded file embedding_index.faiss to antique.representation using GridFS
+2025-07-08 12:18:51,806 - INFO - Closed MongoDB connection
+2025-07-08 12:20:35,642 - INFO - Connected to MongoDB successfully
+2025-07-08 12:20:35,701 - INFO - Uploaded file tfidf_vectorizer.joblib to antique.representation using GridFS
+2025-07-08 12:20:46,571 - INFO - Uploaded file embeddings_matrix.joblib to antique.representation using GridFS
+2025-07-08 12:21:02,817 - INFO - Uploaded file embeddings_vectorizer.joblib to antique.representation using GridFS
+2025-07-08 12:21:24,861 - INFO - Uploaded file embedding_index.faiss to antique.representation using GridFS
+2025-07-08 12:21:24,942 - INFO - Closed MongoDB connection
+2025-07-08 12:24:40,826 - INFO - Connected to MongoDB successfully
+2025-07-08 12:24:41,029 - INFO - Uploaded file tfidf_vectorizer.joblib to antique.representation using GridFS
+2025-07-08 12:24:41,993 - INFO - Uploaded file tfidf_matrix.joblib to antique.representation using GridFS
+2025-07-08 12:24:50,092 - INFO - Uploaded file embeddings_matrix.joblib to antique.representation using GridFS
+2025-07-08 12:24:53,407 - INFO - Uploaded file embeddings_vectorizer.joblib to antique.representation using GridFS
+2025-07-08 12:25:02,810 - INFO - Uploaded file embedding_index.faiss to antique.representation using GridFS
+2025-07-08 12:25:02,907 - INFO - Closed MongoDB connection
+2025-07-08 12:25:16,981 - INFO - Connected to MongoDB successfully
+2025-07-08 12:25:17,058 - INFO - Uploaded file tfidf_vectorizer.joblib to beir.representation using GridFS
+2025-07-08 12:25:32,240 - INFO - Uploaded file embeddings_matrix.joblib to beir.representation using GridFS
+2025-07-08 12:25:35,824 - INFO - Uploaded file embeddings_vectorizer.joblib to beir.representation using GridFS
+2025-07-08 12:25:49,566 - INFO - Uploaded file embedding_index.faiss to beir.representation using GridFS
+2025-07-08 12:25:49,680 - INFO - Closed MongoDB connection

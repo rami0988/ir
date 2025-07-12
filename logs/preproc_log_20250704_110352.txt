@@ -1,0 +1,7 @@
+Top similarities for antique: [0.4191696  0.41724584 0.40825015 0.3982569  0.39244515] at 2025-07-04 11:03:53.382318
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:03:54.136489
+Selected document at doc_id 1276528_3, similarity: 0.4191696047782898, text: ['name', 'chef', 'show', 'gilmore', 'girls'] at 2025-07-04 11:03:54.743008
+Selected document at doc_id 826194_2, similarity: 0.4172458350658417, text: ['ohh', 'chandler', 'friends'] at 2025-07-04 11:03:54.744004
+Selected document at doc_id 2584082_5, similarity: 0.4082501530647278, text: ['watch', 'gordon', 'ramsay', 'last', 'night', 'heres', 'one', 'recipe', 'httpwwwbbccoukfoodrecipesdatabaselancashirehotpot_84591shtml'] at 2025-07-04 11:03:54.744004
+Additional words for antique: name chef show gilmore at 2025-07-04 11:03:54.746038
+Enhanced Query for antique: Why is Gordon Ramsey so popular? name chef show gilmore at 2025-07-04 11:03:54.746038

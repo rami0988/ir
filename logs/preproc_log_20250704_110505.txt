@@ -1,0 +1,9 @@
+Top similarities for antique: [0.48905808 0.46735945 0.46564233 0.42860642 0.4218043 ] at 2025-07-04 11:05:07.195970
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:07.911317
+Selected document at doc_id 3446635_1, similarity: 0.48905807733535767, text: ['rash', 'discolor'] at 2025-07-04 11:05:08.637553
+Selected document at doc_id 3766794_1, similarity: 0.4673594534397125, text: ['suburn', 'skin', 'discoloration', 'cancer'] at 2025-07-04 11:05:08.637553
+Selected document at doc_id 3008679_2, similarity: 0.4656423330307007, text: ['rednesssoreness', 'peel', 'skin'] at 2025-07-04 11:05:08.638553
+Selected document at doc_id 3546405_2, similarity: 0.42860642075538635, text: ['pigmentation', 'skin'] at 2025-07-04 11:05:08.638553
+Selected document at doc_id 343346_6, similarity: 0.4218043088912964, text: ['white', 'use', 'peroxide', 'wash'] at 2025-07-04 11:05:08.639554
+Additional words for antique: rash discolor suburn cancer at 2025-07-04 11:05:08.639554
+Enhanced Query for antique: What causes skin discoloration, specifically, whitening of the skin between fingers? rash discolor suburn cancer at 2025-07-04 11:05:08.640554

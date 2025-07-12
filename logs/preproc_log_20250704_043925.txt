@@ -1,0 +1,9 @@
+Top similarities for antique: [0.67769337 0.6769464  0.6740695  0.6724379  0.6541412 ] at 2025-07-04 04:39:27.251617
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:39:27.978618
+Selected document at doc_id 2997320_13, similarity: 0.6776933670043945, text: ['christianity'] at 2025-07-04 04:39:28.609303
+Selected document at doc_id 2564537_11, similarity: 0.6769464015960693, text: ['catholic', 'christian'] at 2025-07-04 04:39:28.609303
+Selected document at doc_id 4011933_10, similarity: 0.6740695238113403, text: ['catholics', 'know', 'christian'] at 2025-07-04 04:39:28.609848
+Selected document at doc_id 1871651_20, similarity: 0.6724379062652588, text: ['catholics', 'christians'] at 2025-07-04 04:39:28.610882
+Selected document at doc_id 1744498_2, similarity: 0.6541411876678467, text: ['catholic', 'faith'] at 2025-07-04 04:39:28.611894
+Additional words for antique: catholic christian catholics know at 2025-07-04 04:39:28.611894
+Enhanced Query for antique: How is Catholicism not Christianity? catholic christian catholics know at 2025-07-04 04:39:28.612891

@@ -1,0 +1,7 @@
+Top similarities for antique: [0.50722516 0.40778205 0.4030378  0.36911523 0.36911517] at 2025-07-04 04:41:28.178786
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:28.883273
+Selected document at doc_id 3322405_11, similarity: 0.5072251558303833, text: ['brilliant'] at 2025-07-04 04:41:29.513258
+Selected document at doc_id 1273180_2, similarity: 0.40778204798698425, text: ['clever'] at 2025-07-04 04:41:29.513258
+Selected document at doc_id 3502691_2, similarity: 0.40303778648376465, text: ['genius'] at 2025-07-04 04:41:29.514260
+Additional words for antique: clever genius at 2025-07-04 04:41:29.514260
+Enhanced Query for antique: how can you be more brilliant? clever genius at 2025-07-04 04:41:29.515886

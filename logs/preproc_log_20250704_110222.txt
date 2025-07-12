@@ -1,0 +1,7 @@
+Top similarities for antique: [0.45600784 0.4176994  0.4083894  0.39954478 0.39815336] at 2025-07-04 11:02:23.811732
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:02:24.552703
+Selected document at doc_id 800325_1, similarity: 0.45600783824920654, text: ['illegal', 'disable', 'airbag', 'without', 'approval', 'nhtsa'] at 2025-07-04 11:02:25.301729
+Selected document at doc_id 3712755_1, similarity: 0.41769939661026, text: ['check', 'keylessridecom'] at 2025-07-04 11:02:25.301729
+Selected document at doc_id 147332_10, similarity: 0.4083893895149231, text: ['not', 'tire', 'check', 'steer', 'fluid'] at 2025-07-04 11:02:25.302703
+Additional words for antique: illegal disable airbag without at 2025-07-04 11:02:25.303726
+Enhanced Query for antique: Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton? illegal disable airbag without at 2025-07-04 11:02:25.303726

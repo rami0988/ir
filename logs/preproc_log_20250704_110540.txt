@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5045492  0.44345236 0.4409331  0.4297027  0.4297027 ] at 2025-07-04 11:05:42.292657
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:43.068398
+Selected document at doc_id 3225840_2, similarity: 0.5045492053031921, text: ['april', '8th'] at 2025-07-04 11:05:44.144124
+Selected document at doc_id 4239397_0, similarity: 0.4434523582458496, text: ['april', 'not', 'may'] at 2025-07-04 11:05:44.145105
+Selected document at doc_id 3225840_7, similarity: 0.44093310832977295, text: ['april', '2007', 'sunday'] at 2025-07-04 11:05:44.145105
+Selected document at doc_id 3225840_3, similarity: 0.4297026991844177, text: ['april', '2007'] at 2025-07-04 11:05:44.146222
+Selected document at doc_id 3225840_5, similarity: 0.4297026991844177, text: ['april', '2007'] at 2025-07-04 11:05:44.146222
+Additional words for antique: 8th not may 2007 at 2025-07-04 11:05:44.146222
+Enhanced Query for antique: Why is April 19th important? 8th not may 2007 at 2025-07-04 11:05:44.147234

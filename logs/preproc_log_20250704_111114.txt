@@ -1,0 +1,9 @@
+Top similarities for antique: [0.59091467 0.5347402  0.52927303 0.52641034 0.5242784 ] at 2025-07-04 11:11:16.480516
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:11:17.260921
+Selected document at doc_id 3108202_2, similarity: 0.5909146666526794, text: ['school', 'use'] at 2025-07-04 11:11:17.976366
+Selected document at doc_id 4334121_1, similarity: 0.5347402095794678, text: ['real', 'world'] at 2025-07-04 11:11:17.976366
+Selected document at doc_id 658351_9, similarity: 0.5292730331420898, text: ['school', 'systems'] at 2025-07-04 11:11:17.977365
+Selected document at doc_id 1835434_13, similarity: 0.5264103412628174, text: ['seriousdid', 'school'] at 2025-07-04 11:11:17.978365
+Selected document at doc_id 1582877_7, similarity: 0.5242784023284912, text: ['real', 'world', 'live'] at 2025-07-04 11:11:17.978365
+Additional words for antique: systems seriousdid live at 2025-07-04 11:11:17.978365
+Enhanced Query for antique: why do we go to school if in the real world we dont use most of it? systems seriousdid live at 2025-07-04 11:11:17.979372

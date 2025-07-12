@@ -1,0 +1,7 @@
+Top similarities for antique: [0.44987398 0.43596953 0.4120913  0.39314318 0.38508016] at 2025-07-04 11:06:35.657589
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:06:36.460104
+Selected document at doc_id 2199848_8, similarity: 0.44987398386001587, text: ['probably', 'successful'] at 2025-07-04 11:06:37.593311
+Selected document at doc_id 1394986_5, similarity: 0.4359695315361023, text: ['successful'] at 2025-07-04 11:06:37.594304
+Selected document at doc_id 1455855_17, similarity: 0.41209131479263306, text: ['could', 'work'] at 2025-07-04 11:06:37.594304
+Additional words for antique: probably successful work at 2025-07-04 11:06:37.595766
+Enhanced Query for antique: how could u get success? probably successful work at 2025-07-04 11:06:37.595766

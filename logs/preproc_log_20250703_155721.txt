@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6410991  0.6410991  0.58491576 0.5849157  0.57660675] at 2025-07-03 15:57:27.922211
+Loaded doc_id_mapping with 403666 entries at 2025-07-03 15:57:29.121661
+Selected document at doc_id 1782331_1, similarity: 0.6410990953445435, text: ['war', 'iraq'] at 2025-07-03 15:57:30.351846
+Selected document at doc_id 1755346_1, similarity: 0.6410990953445435, text: ['war', 'iraq'] at 2025-07-03 15:57:30.353841
+Selected document at doc_id 1286873_6, similarity: 0.5849157571792603, text: ['iraq'] at 2025-07-03 15:57:30.354814
+Selected document at doc_id 921514_16, similarity: 0.5849156975746155, text: ['iraq'] at 2025-07-03 15:57:30.356815
+Selected document at doc_id 3039349_2, similarity: 0.5766067504882812, text: ['dont', 'iraq'] at 2025-07-03 15:57:30.357814
+Additional words for antique: dont at 2025-07-03 15:57:30.358816
+Enhanced Query for antique: tell me about war in iraq? dont at 2025-07-03 15:57:30.361822

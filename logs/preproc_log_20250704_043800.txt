@@ -1,0 +1,7 @@
+Top similarities for antique: [0.4961265  0.4272557  0.41433024 0.3911783  0.36619687] at 2025-07-04 04:38:01.840733
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:02.546759
+Selected document at doc_id 2976091_3, similarity: 0.4961265027523041, text: ['military', 'service', 'program', 'discharge'] at 2025-07-04 04:38:03.172767
+Selected document at doc_id 1594981_1, similarity: 0.42725569009780884, text: ['unfit', 'military', 'service'] at 2025-07-04 04:38:03.173759
+Selected document at doc_id 549393_2, similarity: 0.41433024406433105, text: ['military', 'back', 'ssn'] at 2025-07-04 04:38:03.174759
+Additional words for antique: military service program discharge at 2025-07-04 04:38:03.175271
+Enhanced Query for antique: why did the army have personal cuts in the mid 1990's? military service program discharge at 2025-07-04 04:38:03.176277

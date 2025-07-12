@@ -1,0 +1,9 @@
+Top similarities for antique: [0.491362   0.4679432  0.46368283 0.44640714 0.44377398] at 2025-07-04 04:41:11.101118
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:11.801885
+Selected document at doc_id 1837782_14, similarity: 0.4913620054721832, text: ['exercise', 'melatonin', 'supplement', 'chamomile', 'tea', 'massage'] at 2025-07-04 04:41:12.441761
+Selected document at doc_id 1837782_0, similarity: 0.4679431915283203, text: ['try', 'melatonin', 'natural', 'supplement', 'valerian', 'herb', 'induce', 'sleep'] at 2025-07-04 04:41:12.441761
+Selected document at doc_id 4220683_12, similarity: 0.4636828303337097, text: ['kid', 'sleep'] at 2025-07-04 04:41:12.442729
+Selected document at doc_id 966622_1, similarity: 0.44640713930130005, text: ['sleeptalking', 'also', 'know', 'somniloquy', 'range', 'loud', 'talk', 'low', 'murmur', 'listeners', 'may', 'may', 'not', 'able', 'understand', 'person', 'say', 'sleep', 'talk', 'occur', 'feature', 'another', 'sleep', 'disorder', 'rem', 'sleep', 'behavior', 'disorder', 'rbd', 'loud', 'emotional', 'profane', 'sleep', 'talk', 'sleepwalk', 'night', 'terrors', 'intense', 'fear', 'scream', 'shout', 'sleep', 'relate', 'eat', 'disorder', 'sred', 'sleeptalking', 'common', 'occur', 'almost', 'young', 'children', 'usually', 'not', 'dangerous', 'not', 'cause', 'alarm', 'hope', 'help'] at 2025-07-04 04:41:12.443729
+Selected document at doc_id 912035_2, similarity: 0.4437739849090576, text: ['exercisesplenty', 'sleepeat', 'right', 'foods'] at 2025-07-04 04:41:12.443729
+Additional words for antique: exercise melatonin supplement chamomile at 2025-07-04 04:41:12.443729
+Enhanced Query for antique: what are some easy ways to get a toddler to go to sleep without being mean? exercise melatonin supplement chamomile at 2025-07-04 04:41:12.444729

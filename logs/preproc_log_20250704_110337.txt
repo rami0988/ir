@@ -1,0 +1,9 @@
+Top similarities for antique: [0.50646764 0.50156534 0.4886092  0.48032987 0.44377586] at 2025-07-04 11:03:38.789585
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:03:39.535616
+Selected document at doc_id 2652261_7, similarity: 0.5064676403999329, text: ['arabs', 'dark', 'skin'] at 2025-07-04 11:03:40.201229
+Selected document at doc_id 3363149_4, similarity: 0.5015653371810913, text: ['yes', 'look', 'alike', 'forget', 'spanishfrench', 'italians', 'look', 'like', 'arabssimply', 'coz', 'arabs', 'occupy', 'countries', 'rule', 'centuries', 'ago'] at 2025-07-04 11:03:40.202206
+Selected document at doc_id 2652261_6, similarity: 0.4886091947555542, text: ['similar', 'colour', 'egyptians'] at 2025-07-04 11:03:40.202206
+Selected document at doc_id 3766120_6, similarity: 0.48032987117767334, text: ['arab', 'also'] at 2025-07-04 11:03:40.202206
+Selected document at doc_id 3363149_5, similarity: 0.44377586245536804, text: ['dont', 'mexicans', 'native', 'american', 'arabs', 'middle', 'eastern'] at 2025-07-04 11:03:40.203723
+Additional words for antique: dark skin yes forget at 2025-07-04 11:03:40.203723
+Enhanced Query for antique: Why do Arabs and Mexicans look alike? dark skin yes forget at 2025-07-04 11:03:40.203723

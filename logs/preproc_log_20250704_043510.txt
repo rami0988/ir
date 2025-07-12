@@ -1,0 +1,9 @@
+Top similarities for antique: [0.57842296 0.5165197  0.51648843 0.4927194  0.4859237 ] at 2025-07-04 04:35:12.299842
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:12.981842
+Selected document at doc_id 577077_0, similarity: 0.5784229636192322, text: ['heat', 'rise'] at 2025-07-04 04:35:13.600842
+Selected document at doc_id 451864_21, similarity: 0.5165197253227234, text: ['heat', 'rise', 'top'] at 2025-07-04 04:35:13.601842
+Selected document at doc_id 451864_16, similarity: 0.5164884328842163, text: ['smoke', 'heat', 'rise'] at 2025-07-04 04:35:13.601842
+Selected document at doc_id 1196555_0, similarity: 0.4927194118499756, text: ['possibly', 'heat', 'rise'] at 2025-07-04 04:35:13.602854
+Selected document at doc_id 989850_11, similarity: 0.485923707485199, text: ['hot', 'air', 'rise', 'cold', 'air', 'sink'] at 2025-07-04 04:35:13.603841
+Additional words for antique: heat top smoke possibly at 2025-07-04 04:35:13.603841
+Enhanced Query for antique: Why hot air rises up? heat top smoke possibly at 2025-07-04 04:35:13.604872

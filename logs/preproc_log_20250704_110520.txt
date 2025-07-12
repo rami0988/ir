@@ -1,0 +1,6 @@
+Top similarities for antique: [0.45283234 0.40940857 0.38449153 0.37779588 0.36722857] at 2025-07-04 11:05:22.334877
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:23.088132
+Selected document at doc_id 3493286_2, similarity: 0.45283234119415283, text: ['increase', 'performance', 'engine'] at 2025-07-04 11:05:23.766813
+Selected document at doc_id 3451964_21, similarity: 0.4094085693359375, text: ['better', 'performance', 'better', 'gas', 'mileage'] at 2025-07-04 11:05:23.767834
+Additional words for antique: increase performance engine better at 2025-07-04 11:05:23.767834
+Enhanced Query for antique: How do you improve fuel efficiency of a 2004, Ford Ikon? increase performance engine better at 2025-07-04 11:05:23.768823

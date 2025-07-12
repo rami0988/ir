@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5573359  0.5145608  0.48909947 0.4845791  0.479416  ] at 2025-07-04 04:35:58.825185
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:59.532188
+Selected document at doc_id 1724458_10, similarity: 0.5573359131813049, text: ['heat', 'hand'] at 2025-07-04 04:36:00.170363
+Selected document at doc_id 4377861_0, similarity: 0.5145608186721802, text: ['hand', 'sew', 'sequins', 'youll', 'need', 'tiny', 'bead', 'come', 'center', 'sequin', 'bead', 'back', 'center', 'sequin', 'bead', 'must', 'large', 'enough', 'hold', 'sequin', 'not', 'large', 'detract', 'look', 'sequin'] at 2025-07-04 04:36:00.171370
+Selected document at doc_id 1317820_6, similarity: 0.4890994727611542, text: ['hand', 'easter', 'mint'] at 2025-07-04 04:36:00.172326
+Selected document at doc_id 4110037_1, similarity: 0.48457908630371094, text: ['eyelids', 'stitch', 'eyebrows'] at 2025-07-04 04:36:00.172326
+Selected document at doc_id 2777055_6, similarity: 0.47941601276397705, text: ['hand', 'feet'] at 2025-07-04 04:36:00.173333
+Additional words for antique: heat hand sew youll at 2025-07-04 04:36:00.173333
+Enhanced Query for antique: how to handsew sequins? heat hand sew youll at 2025-07-04 04:36:00.174356

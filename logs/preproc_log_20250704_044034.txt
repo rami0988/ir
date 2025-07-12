@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49770916 0.4915482  0.49154818 0.49097052 0.4834144 ] at 2025-07-04 04:40:35.867126
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:36.710150
+Selected document at doc_id 134882_1, similarity: 0.49770915508270264, text: ['sun', 'wind', 'rain'] at 2025-07-04 04:40:37.446295
+Selected document at doc_id 1491623_2, similarity: 0.49154821038246155, text: ['weather'] at 2025-07-04 04:40:37.446295
+Selected document at doc_id 3186954_2, similarity: 0.49154818058013916, text: ['weather'] at 2025-07-04 04:40:37.447269
+Selected document at doc_id 1895903_5, similarity: 0.49097052216529846, text: ['probably', 'sensitive', 'barometric', 'pressure', 'change'] at 2025-07-04 04:40:37.447269
+Selected document at doc_id 1067083_1, similarity: 0.4834144115447998, text: ['weather', 'occur'] at 2025-07-04 04:40:37.448268
+Additional words for antique: sun wind rain probably at 2025-07-04 04:40:37.449269
+Enhanced Query for antique: If you could be an element of weather, which would you choose, and why? sun wind rain probably at 2025-07-04 04:40:37.449269

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.51272386 0.49713936 0.49408937 0.47687012 0.46671206] at 2025-07-04 04:38:47.661325
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:48.370349
+Selected document at doc_id 2427314_7, similarity: 0.5127238631248474, text: ['islam', 'truth'] at 2025-07-04 04:38:48.997576
+Selected document at doc_id 3614937_3, similarity: 0.4971393644809723, text: ['muslims', 'take', 'europe'] at 2025-07-04 04:38:48.998576
+Selected document at doc_id 4120781_13, similarity: 0.49408936500549316, text: ['ignore', 'islam', 'listen', 'bias', 'media'] at 2025-07-04 04:38:48.998576
+Selected document at doc_id 2072335_13, similarity: 0.4768701195716858, text: ['media', 'portray', 'terrorists'] at 2025-07-04 04:38:48.999576
+Selected document at doc_id 3826465_6, similarity: 0.4667120575904846, text: ['media', 'destroy', 'image', 'islam'] at 2025-07-04 04:38:48.999576
+Additional words for antique: muslims take ignore listen at 2025-07-04 04:38:49.000593
+Enhanced Query for antique: why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them? muslims take ignore listen at 2025-07-04 04:38:49.001577

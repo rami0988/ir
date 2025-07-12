@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5476764  0.5074282  0.492849   0.42448157 0.41512   ] at 2025-07-04 11:08:10.810116
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:08:11.522508
+Selected document at doc_id 3546843_1, similarity: 0.5476763844490051, text: ['well', 'kamikaze', 'pilot', 'wear', 'helmets'] at 2025-07-04 11:08:12.388833
+Selected document at doc_id 532786_2, similarity: 0.5074282288551331, text: ['wear', 'helmet'] at 2025-07-04 11:08:12.389833
+Selected document at doc_id 1155514_6, similarity: 0.4928489923477173, text: ['maybe', 'question', 'helmets', 'wear', 'kamikaze', 'pilot'] at 2025-07-04 11:08:12.389833
+Selected document at doc_id 1105578_7, similarity: 0.4244815707206726, text: ['japanese', 'pilot', 'not', 'wear', 'helmets', 'wear', 'thick', 'cap', 'keep', 'head', 'warm'] at 2025-07-04 11:08:12.390831
+Selected document at doc_id 2784717_5, similarity: 0.415120005607605, text: ['pilot', 'helmets', 'part', 'uniform', 'duh'] at 2025-07-04 11:08:12.390831
+Additional words for antique: well helmet maybe question at 2025-07-04 11:08:12.391838
+Enhanced Query for antique: Why do Kamikaze pilots wear helmets? well helmet maybe question at 2025-07-04 11:08:12.391838

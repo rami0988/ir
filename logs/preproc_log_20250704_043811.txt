@@ -1,0 +1,6 @@
+Top similarities for antique: [0.41484988 0.40925163 0.39854056 0.39084992 0.3902785 ] at 2025-07-04 04:38:13.272150
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:13.980163
+Selected document at doc_id 4290187_2, similarity: 0.4148498773574829, text: ['saddam', 'kill', 'millions'] at 2025-07-04 04:38:14.626903
+Selected document at doc_id 3911272_3, similarity: 0.4092516303062439, text: ['well', 'let', 'think', 'liberals', 'constantly', 'criticize', 'war', 'good', 'things', 'happen', 'iraqbut', 'media', 'doesnt', 'report', 'huh', 'liberalcontrolled', 'media', 'doesnt', 'want', 'report', 'anything', 'positive', 'iraq', 'would', 'find', 'better', 'strike', 'fear', 'hatred', 'hearts', 'americans', 'rather', 'pride', 'security'] at 2025-07-04 04:38:14.627892
+Additional words for antique: kill millions well let at 2025-07-04 04:38:14.628885
+Enhanced Query for antique: Why are liberals so quick to defend Saddam? kill millions well let at 2025-07-04 04:38:14.628885

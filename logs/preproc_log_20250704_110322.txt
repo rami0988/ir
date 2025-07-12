@@ -1,0 +1,9 @@
+Top similarities for antique: [0.54750025 0.5253818  0.51279986 0.48905456 0.48905444] at 2025-07-04 11:03:24.263668
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:03:24.999942
+Selected document at doc_id 2874995_1, similarity: 0.5475002527236938, text: ['drive', 'fast'] at 2025-07-04 11:03:25.638974
+Selected document at doc_id 3493286_2, similarity: 0.5253818035125732, text: ['increase', 'performance', 'engine'] at 2025-07-04 11:03:25.638974
+Selected document at doc_id 3378840_6, similarity: 0.512799859046936, text: ['fasterfster', 'faster'] at 2025-07-04 11:03:25.639973
+Selected document at doc_id 2514667_5, similarity: 0.4890545606613159, text: ['faster'] at 2025-07-04 11:03:25.640870
+Selected document at doc_id 3167037_18, similarity: 0.48905444145202637, text: ['faster'] at 2025-07-04 11:03:25.640870
+Additional words for antique: drive fast increase performance at 2025-07-04 11:03:25.640870
+Enhanced Query for antique: how to make my car faster? drive fast increase performance at 2025-07-04 11:03:25.641877

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5927052  0.5230851  0.5227983  0.5221687  0.51188946] at 2025-07-04 11:10:26.052614
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:10:26.783992
+Selected document at doc_id 3474803_3, similarity: 0.5927051901817322, text: ['call', 'tricare', '877triwest'] at 2025-07-04 11:10:27.420447
+Selected document at doc_id 3930874_0, similarity: 0.5230851173400879, text: ['call', 'doctor'] at 2025-07-04 11:10:27.420447
+Selected document at doc_id 3784744_6, similarity: 0.5227982997894287, text: ['call', 'doctor', 'immediately'] at 2025-07-04 11:10:27.421446
+Selected document at doc_id 1634584_1, similarity: 0.5221686959266663, text: ['call', 'drs'] at 2025-07-04 11:10:27.422446
+Selected document at doc_id 155796_3, similarity: 0.5118894577026367, text: ['call', 'pharmacist'] at 2025-07-04 11:10:27.422446
+Additional words for antique: call tricare 877triwest immediately at 2025-07-04 11:10:27.422446
+Enhanced Query for antique: Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor? call tricare 877triwest immediately at 2025-07-04 11:10:27.423447

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.60154605 0.5705105  0.56810623 0.5489092  0.5408216 ] at 2025-07-04 04:37:13.336317
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:37:14.043288
+Selected document at doc_id 1842932_2, similarity: 0.601546049118042, text: ['copyrightpatented', 'invention'] at 2025-07-04 04:37:14.668321
+Selected document at doc_id 4018891_26, similarity: 0.5705105066299438, text: ['copyright', 'not', 'eeverything', 'protect', 'go', 'limit', 'word', 'term', 'use'] at 2025-07-04 04:37:14.669277
+Selected document at doc_id 4007876_1, similarity: 0.5681062340736389, text: ['copyrightgov', 'application', 'process', 'book', 'etc', 'cost', 'around', 'good', 'luck'] at 2025-07-04 04:37:14.669449
+Selected document at doc_id 4018891_62, similarity: 0.5489091873168945, text: ['say', 'copyright', 'care', 'use'] at 2025-07-04 04:37:14.670017
+Selected document at doc_id 2716137_1, similarity: 0.5408216118812561, text: ['call', 'copyright'] at 2025-07-04 04:37:14.670017
+Additional words for antique: copyrightpatented invention not eeverything at 2025-07-04 04:37:14.671060
+Enhanced Query for antique: How do I know if a particular term or phrase is copyrighted? copyrightpatented invention not eeverything at 2025-07-04 04:37:14.671060

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.62969935 0.60519403 0.59485793 0.5812259  0.56396425] at 2025-07-04 04:34:27.893670
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:34:29.156672
+Selected document at doc_id 3819566_10, similarity: 0.6296993494033813, text: ['take', 'laxatives'] at 2025-07-04 04:34:30.437668
+Selected document at doc_id 3819566_8, similarity: 0.6051940321922302, text: ['take', 'laxativelol'] at 2025-07-04 04:34:30.438680
+Selected document at doc_id 4393055_1, similarity: 0.594857931137085, text: ['eat', 'bunch', 'laxatives'] at 2025-07-04 04:34:30.439692
+Selected document at doc_id 2780668_1, similarity: 0.5812258720397949, text: ['take', 'laxative', 'change', 'diet', 'furhter', 'advice', 'see', 'doctor'] at 2025-07-04 04:34:30.441668
+Selected document at doc_id 4173594_15, similarity: 0.5639642477035522, text: ['eat', 'prune', 'laxative'] at 2025-07-04 04:34:30.443669
+Additional words for antique: take laxatives laxativelol eat at 2025-07-04 04:34:30.444668
+Enhanced Query for antique: i have had loose stools for a week...how do i make it stop? take laxatives laxativelol eat at 2025-07-04 04:34:30.446669

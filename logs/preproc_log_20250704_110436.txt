@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5045284  0.47960165 0.47960165 0.47960165 0.4691865 ] at 2025-07-04 11:04:37.733949
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:04:38.489963
+Selected document at doc_id 2383241_10, similarity: 0.5045284032821655, text: ['manic', 'depression', 'university'] at 2025-07-04 11:04:39.129913
+Selected document at doc_id 1572371_0, similarity: 0.47960165143013, text: ['depress'] at 2025-07-04 11:04:39.130926
+Selected document at doc_id 1811623_16, similarity: 0.47960165143013, text: ['depress'] at 2025-07-04 11:04:39.130926
+Selected document at doc_id 785804_2, similarity: 0.47960165143013, text: ['depress'] at 2025-07-04 11:04:39.131914
+Selected document at doc_id 975932_14, similarity: 0.4691865146160126, text: ['depress', 'unemployed'] at 2025-07-04 11:04:39.132942
+Additional words for antique: manic depression university unemployed at 2025-07-04 11:04:39.132942
+Enhanced Query for antique: Why is switching schools so depressing? manic depression university unemployed at 2025-07-04 11:04:39.132942

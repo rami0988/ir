@@ -1,0 +1,9 @@
+Top similarities for antique: [0.61067075 0.61067075 0.61067075 0.61067075 0.61067075] at 2025-07-04 11:04:31.986320
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:04:32.728335
+Selected document at doc_id 1234678_3, similarity: 0.6106707453727722, text: ['sun'] at 2025-07-04 11:04:33.360530
+Selected document at doc_id 2907630_9, similarity: 0.6106707453727722, text: ['sun'] at 2025-07-04 11:04:33.361520
+Selected document at doc_id 1429684_6, similarity: 0.6106707453727722, text: ['sun'] at 2025-07-04 11:04:33.361520
+Selected document at doc_id 3295055_3, similarity: 0.6106707453727722, text: ['sun'] at 2025-07-04 11:04:33.361520
+Selected document at doc_id 1234678_2, similarity: 0.6106707453727722, text: ['sun'] at 2025-07-04 11:04:33.362796
+Additional words for antique:  at 2025-07-04 11:04:33.363501
+No new words to add to query for antique at 2025-07-04 11:04:33.363501

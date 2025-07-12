@@ -1,0 +1,9 @@
+Top similarities for antique: [0.66967213 0.5598029  0.5595462  0.5488988  0.5335132 ] at 2025-07-04 04:38:50.492047
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:51.197063
+Selected document at doc_id 474417_4, similarity: 0.6696721315383911, text: ['cyclo', 'come', 'cyclops', 'greek', 'mythology'] at 2025-07-04 04:38:51.832067
+Selected document at doc_id 1458593_0, similarity: 0.5598028898239136, text: ['husband', 'clytemnestra', 'clytemnestra', 'also', 'wife', 'king', 'agamemnon', 'mycenae', 'house', 'atreus', 'leader', 'greek', 'force', 'trojan', 'war', 'clytemnestras', 'revenge', 'clytemnestra', 'rule', 'husband', 'away', 'agamemnon', 'return', 'murder', 'iphigenia', 'cassandra', 'concubine', 'tow', 'clytemnestra', 'lover', 'aegisthus', 'kill', 'agamemnon'] at 2025-07-04 04:38:51.833053
+Selected document at doc_id 2432710_0, similarity: 0.559546172618866, text: ['greek', 'origin', 'mean', 'unconquered', 'aniketos'] at 2025-07-04 04:38:51.833774
+Selected document at doc_id 137518_2, similarity: 0.5488988161087036, text: ['hellenic', 'influence', 'become', 'greek', 'empire', 'continuation', 'hellenic', 'world'] at 2025-07-04 04:38:51.834781
+Selected document at doc_id 3662519_14, similarity: 0.5335131883621216, text: ['greek', 'symbol'] at 2025-07-04 04:38:51.834781
+Additional words for antique: come cyclops husband clytemnestra at 2025-07-04 04:38:51.834781
+Enhanced Query for antique: what does the prefix "cyclo" mean in greek mythology? come cyclops husband clytemnestra at 2025-07-04 04:38:51.835780

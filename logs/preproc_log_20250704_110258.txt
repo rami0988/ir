@@ -1,0 +1,9 @@
+Top similarities for antique: [0.56502914 0.49004763 0.4796221  0.46778762 0.46778762] at 2025-07-04 11:02:59.906394
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:03:00.651401
+Selected document at doc_id 2816343_3, similarity: 0.5650291442871094, text: ['know', 'question'] at 2025-07-04 11:03:01.319426
+Selected document at doc_id 2026255_3, similarity: 0.4900476336479187, text: ['everyone', 'know'] at 2025-07-04 11:03:01.320429
+Selected document at doc_id 3240393_3, similarity: 0.47962209582328796, text: ['anybody', 'know'] at 2025-07-04 11:03:01.320429
+Selected document at doc_id 2124666_11, similarity: 0.46778762340545654, text: ['know', 'answer'] at 2025-07-04 11:03:01.321353
+Selected document at doc_id 1674423_9, similarity: 0.46778762340545654, text: ['know', 'answer'] at 2025-07-04 11:03:01.321997
+Additional words for antique: everyone anybody answer at 2025-07-04 11:03:01.322112
+Enhanced Query for antique: Why do people ask questions they know? everyone anybody answer at 2025-07-04 11:03:01.322112

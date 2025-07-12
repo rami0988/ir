@@ -1,0 +1,9 @@
+Top similarities for antique: [0.562499   0.50061744 0.47996086 0.46703935 0.4551854 ] at 2025-07-04 11:09:46.906984
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:09:47.710681
+Selected document at doc_id 1077370_9, similarity: 0.5624989867210388, text: ['monkey', 'fingerprint'] at 2025-07-04 11:09:48.389274
+Selected document at doc_id 1077370_2, similarity: 0.5006174445152283, text: ['primates', 'finger', 'print'] at 2025-07-04 11:09:48.390275
+Selected document at doc_id 48470_1, similarity: 0.4799608588218689, text: ['fingerprint', 'procedure', 'take', 'ink', 'impressions', 'persons', 'fingerprint', 'purpose', 'identification'] at 2025-07-04 11:09:48.390275
+Selected document at doc_id 48470_5, similarity: 0.4670393466949463, text: ['fingerprint', 'make', 'copy', 'fingerprint', 'another', 'surface', 'example', 'put', 'finger', 'ink', 'pad', 'place', 'upon', 'piece', 'flat', 'paper', 'lift', 'finger', 'notice', 'mark', 'look', 'closely', 'see', 'bunch', 'swirl', 'cuves', 'fingerprint', 'fingerprint', 'different', 'human', 'hope', 'help'] at 2025-07-04 11:09:48.391274
+Selected document at doc_id 3324906_0, similarity: 0.4551854133605957, text: ['identical', 'twin', 'similar', 'fingerprint', 'otherwise', 'different', 'fingerprint'] at 2025-07-04 11:09:48.391274
+Additional words for antique: monkey fingerprint primates procedure at 2025-07-04 11:09:48.392275
+Enhanced Query for antique: Why do only Humans have Finger prints? monkey fingerprint primates procedure at 2025-07-04 11:09:48.392275

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.43514732 0.42309606 0.41105253 0.40698004 0.40324903] at 2025-07-04 11:05:10.273183
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:11.019074
+Selected document at doc_id 3014246_2, similarity: 0.43514731526374817, text: ['local', 'sheriffs', 'office', 'request', 'copy'] at 2025-07-04 11:05:11.724419
+Selected document at doc_id 3675152_7, similarity: 0.42309606075286865, text: ['dmv', 'title', 'bureau'] at 2025-07-04 11:05:11.725420
+Selected document at doc_id 1029661_4, similarity: 0.41105252504348755, text: ['dmv', 'ask', 'duplicate'] at 2025-07-04 11:05:11.725420
+Selected document at doc_id 1689877_0, similarity: 0.406980037689209, text: ['suggest', 'dmv', 'tampafl'] at 2025-07-04 11:05:11.726420
+Selected document at doc_id 683032_1, similarity: 0.40324902534484863, text: ['contact', 'local', 'authorites', 'sheriff', 'dept'] at 2025-07-04 11:05:11.727422
+Additional words for antique: local sheriffs office request at 2025-07-04 11:05:11.727422
+Enhanced Query for antique: how do I go about getting copies of letters of commendation prsented to me from city of san diego? local sheriffs office request at 2025-07-04 11:05:11.727422

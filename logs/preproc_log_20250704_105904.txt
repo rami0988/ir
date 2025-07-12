@@ -1,0 +1,9 @@
+Top similarities for antique: [0.44369018 0.44369018 0.44369018 0.44369012 0.4197571 ] at 2025-07-04 10:59:06.018737
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:59:06.767751
+Selected document at doc_id 1316226_9, similarity: 0.4436901807785034, text: ['grill'] at 2025-07-04 10:59:07.441706
+Selected document at doc_id 1118550_5, similarity: 0.4436901807785034, text: ['grill'] at 2025-07-04 10:59:07.441706
+Selected document at doc_id 4292466_0, similarity: 0.4436901807785034, text: ['grill'] at 2025-07-04 10:59:07.442684
+Selected document at doc_id 3397628_1, similarity: 0.44369012117385864, text: ['grill'] at 2025-07-04 10:59:07.442684
+Selected document at doc_id 3440670_11, similarity: 0.41975709795951843, text: ['grill', 'gon', 'barbeque'] at 2025-07-04 10:59:07.443673
+Additional words for antique: gon barbeque at 2025-07-04 10:59:07.443673
+Enhanced Query for antique: How do I keep black birds out of my bar-b-que grill? gon barbeque at 2025-07-04 10:59:07.443673

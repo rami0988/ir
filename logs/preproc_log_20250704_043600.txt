@@ -1,0 +1,9 @@
+Top similarities for antique: [0.44132566 0.42745936 0.42325062 0.4188602  0.41659558] at 2025-07-04 04:36:01.744356
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:36:02.444333
+Selected document at doc_id 542123_2, similarity: 0.44132566452026367, text: ['coke', 'good', 'pepsi', 'not'] at 2025-07-04 04:36:03.078360
+Selected document at doc_id 264820_21, similarity: 0.42745935916900635, text: ['coke', 'pepsi'] at 2025-07-04 04:36:03.078360
+Selected document at doc_id 4008613_5, similarity: 0.42325061559677124, text: ['coke', 'red', 'pepsi', 'blue'] at 2025-07-04 04:36:03.079152
+Selected document at doc_id 3385681_3, similarity: 0.41886019706726074, text: ['cigarettes', 'beers', 'popular'] at 2025-07-04 04:36:03.079893
+Selected document at doc_id 2649965_6, similarity: 0.41659557819366455, text: ['drink', 'beer', 'stereotype'] at 2025-07-04 04:36:03.079893
+Additional words for antique: coke good pepsi not at 2025-07-04 04:36:03.080923
+Enhanced Query for antique: if red bull is soo bad for people ,then why is it soo popular? coke good pepsi not at 2025-07-04 04:36:03.080923

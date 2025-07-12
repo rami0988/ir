@@ -1,0 +1,9 @@
+Top similarities for antique: [0.44412473 0.4320082  0.42870796 0.4287079  0.42444462] at 2025-07-04 04:39:04.739058
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:39:05.429387
+Selected document at doc_id 3593632_3, similarity: 0.4441247284412384, text: ['hunt'] at 2025-07-04 04:39:06.054393
+Selected document at doc_id 3278803_7, similarity: 0.43200820684432983, text: ['hit', 'report', 'asap'] at 2025-07-04 04:39:06.054393
+Selected document at doc_id 3455905_2, similarity: 0.42870795726776123, text: ['spam'] at 2025-07-04 04:39:06.055355
+Selected document at doc_id 304210_4, similarity: 0.42870789766311646, text: ['spam'] at 2025-07-04 04:39:06.055355
+Selected document at doc_id 902660_1, similarity: 0.42444461584091187, text: ['spam', 'spam'] at 2025-07-04 04:39:06.056848
+Additional words for antique: hit report asap spam at 2025-07-04 04:39:06.056848
+Enhanced Query for antique: How can I hunt down and punch the people that keep spamming me? hit report asap spam at 2025-07-04 04:39:06.057855

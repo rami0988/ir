@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4362492  0.41507837 0.41442788 0.40478557 0.40269336] at 2025-07-04 04:34:33.059979
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:34:34.336974
+Selected document at doc_id 4144269_2, similarity: 0.4362491965293884, text: ['people', 'rude'] at 2025-07-04 04:34:35.600970
+Selected document at doc_id 3345218_6, similarity: 0.41507837176322937, text: ['cos', 'show', 'respect', 'absolutely', 'rude'] at 2025-07-04 04:34:35.601991
+Selected document at doc_id 1956064_7, similarity: 0.41442787647247314, text: ['rude', 'not', 'people', 'rude'] at 2025-07-04 04:34:35.602974
+Selected document at doc_id 3968803_6, similarity: 0.4047855734825134, text: ['rude', 'change'] at 2025-07-04 04:34:35.604974
+Selected document at doc_id 608805_4, similarity: 0.40269336104393005, text: ['ignorance', 'fear', 'competition', 'lack', 'curiosity'] at 2025-07-04 04:34:35.605975
+Additional words for antique: cos show respect absolutely at 2025-07-04 04:34:35.606996
+Enhanced Query for antique: why some people behave so rude without reason,is it due to their own problem? cos show respect absolutely at 2025-07-04 04:34:35.608975

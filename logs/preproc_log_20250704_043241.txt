@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5058903  0.5034717  0.50068045 0.49641687 0.48583275] at 2025-07-04 04:32:44.233999
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:32:45.703965
+Selected document at doc_id 4145479_2, similarity: 0.5058903098106384, text: ['get', 'pregnancy', 'test'] at 2025-07-04 04:32:47.264966
+Selected document at doc_id 1190721_0, similarity: 0.5034716725349426, text: ['within', 'days', 'miss', 'period', 'pregnancy', 'test', 'detect', 'pregnancy'] at 2025-07-04 04:32:47.266962
+Selected document at doc_id 2382487_21, similarity: 0.5006804466247559, text: ['doctor', 'pregnancy', 'test', 'might', 'pregnant'] at 2025-07-04 04:32:47.267984
+Selected document at doc_id 155796_2, similarity: 0.4964168667793274, text: ['pregnancy', 'careful'] at 2025-07-04 04:32:47.269958
+Selected document at doc_id 4044842_7, similarity: 0.48583275079727173, text: ['wait', 'weeks', 'try', 'pregnancy', 'test', 'doctor'] at 2025-07-04 04:32:47.270954
+Additional words for antique: get test within days at 2025-07-04 04:32:47.271954
+Enhanced Query for antique: What does "see Leaflet" mean on Ept Pregnancy test? get test within days at 2025-07-04 04:32:47.273982

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.46596563 0.46116737 0.45641527 0.42959875 0.4278108 ] at 2025-07-04 04:33:26.131306
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:33:27.437239
+Selected document at doc_id 1676158_6, similarity: 0.4659656286239624, text: ['senators', 'serve', 'year', 'term', 'congressmen', 'serve', 'two', 'year', 'term'] at 2025-07-04 04:33:28.535923
+Selected document at doc_id 1676158_2, similarity: 0.4611673653125763, text: ['congressmen', 'serve', 'four', 'years', 'senators', 'six', 'years'] at 2025-07-04 04:33:28.536966
+Selected document at doc_id 1676158_3, similarity: 0.4564152657985687, text: ['congressmen', 'serve', 'two', 'years', 'senators', 'six'] at 2025-07-04 04:33:28.538553
+Selected document at doc_id 1962001_1, similarity: 0.42959874868392944, text: ['senate', 'president'] at 2025-07-04 04:33:28.540233
+Selected document at doc_id 1549295_1, similarity: 0.42781078815460205, text: ['congress', 'vote'] at 2025-07-04 04:33:28.540233
+Additional words for antique: serve year term two at 2025-07-04 04:33:28.541257
+Enhanced Query for antique: Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us? serve year term two at 2025-07-04 04:33:28.543166

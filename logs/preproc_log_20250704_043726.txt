@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4935914  0.4914115  0.48577052 0.47799024 0.47552502] at 2025-07-04 04:37:27.573499
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:37:28.287799
+Selected document at doc_id 2180086_3, similarity: 0.49359139800071716, text: ['religion', 'start', 'probably', 'moremen', 'women', 'hence', 'name', 'mormen'] at 2025-07-04 04:37:28.910829
+Selected document at doc_id 719043_23, similarity: 0.4914115071296692, text: ['mormon'] at 2025-07-04 04:37:28.910829
+Selected document at doc_id 2773512_1, similarity: 0.4857705235481262, text: ['church', 'cavemen'] at 2025-07-04 04:37:28.911795
+Selected document at doc_id 1735232_13, similarity: 0.4779902398586273, text: ['problem', 'mormons'] at 2025-07-04 04:37:28.912485
+Selected document at doc_id 727771_8, similarity: 0.47552502155303955, text: ['mormonism'] at 2025-07-04 04:37:28.913502
+Additional words for antique: religion start probably moremen at 2025-07-04 04:37:28.913502
+Enhanced Query for antique: what are mormens? religion start probably moremen at 2025-07-04 04:37:28.914197

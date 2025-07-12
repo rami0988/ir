@@ -1,0 +1,9 @@
+Top similarities for antique: [0.59681004 0.5918186  0.5862802  0.58117235 0.57988656] at 2025-07-04 11:08:01.159098
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:08:01.892144
+Selected document at doc_id 3986602_2, similarity: 0.5968100428581238, text: ['like', 'brown', 'green', 'eye'] at 2025-07-04 11:08:02.672515
+Selected document at doc_id 2330184_4, similarity: 0.5918185710906982, text: ['bright', 'pink', 'almost', 'magenta'] at 2025-07-04 11:08:02.672515
+Selected document at doc_id 3931804_4, similarity: 0.5862802267074585, text: ['violet', 'blue', 'tint'] at 2025-07-04 11:08:02.673806
+Selected document at doc_id 248942_4, similarity: 0.5811723470687866, text: ['like', 'blue'] at 2025-07-04 11:08:02.674273
+Selected document at doc_id 4087314_2, similarity: 0.5798865556716919, text: ['color', 'white'] at 2025-07-04 11:08:02.674273
+Additional words for antique: brown green eye bright at 2025-07-04 11:08:02.675278
+Enhanced Query for antique: what color you like the most and why? brown green eye bright at 2025-07-04 11:08:02.675278

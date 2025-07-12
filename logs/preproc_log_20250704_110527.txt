@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5589689 0.5472187 0.5372585 0.5359797 0.5359796] at 2025-07-04 11:05:28.556516
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:05:29.290450
+Selected document at doc_id 3882624_6, similarity: 0.5589689016342163, text: ['followers', 'islam', 'religion'] at 2025-07-04 11:05:29.974195
+Selected document at doc_id 2427314_7, similarity: 0.5472186803817749, text: ['islam', 'truth'] at 2025-07-04 11:05:29.975165
+Selected document at doc_id 3371380_14, similarity: 0.537258505821228, text: ['muslims', 'power', 'adopt', 'true', 'teachings', 'islam'] at 2025-07-04 11:05:29.975165
+Selected document at doc_id 2807965_6, similarity: 0.535979688167572, text: ['islam'] at 2025-07-04 11:05:29.976168
+Selected document at doc_id 1544621_1, similarity: 0.5359796285629272, text: ['islam'] at 2025-07-04 11:05:29.976168
+Additional words for antique: followers religion truth power at 2025-07-04 11:05:29.977165
+Enhanced Query for antique: How can we understand Islam and Muslims better? followers religion truth power at 2025-07-04 11:05:29.977165

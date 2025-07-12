@@ -1,0 +1,9 @@
+Top similarities for antique: [0.54023093 0.5240765  0.47112307 0.46421623 0.4460636 ] at 2025-07-04 04:40:24.432303
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:25.125317
+Selected document at doc_id 3107835_23, similarity: 0.540230929851532, text: ['nocturnal', 'animals'] at 2025-07-04 04:40:25.743317
+Selected document at doc_id 659602_13, similarity: 0.524076521396637, text: ['animals', 'die', 'place'] at 2025-07-04 04:40:25.743317
+Selected document at doc_id 3802870_3, similarity: 0.471123069524765, text: ['hunt', 'loss', 'habitat'] at 2025-07-04 04:40:25.744326
+Selected document at doc_id 3294734_8, similarity: 0.4642162322998047, text: ['monsters', 'murderers', 'hide', 'dark'] at 2025-07-04 04:40:25.745317
+Selected document at doc_id 2691737_3, similarity: 0.4460636079311371, text: ['wild', 'animals'] at 2025-07-04 04:40:25.745317
+Additional words for antique: nocturnal hunt loss habitat at 2025-07-04 04:40:25.746339
+Enhanced Query for antique: why do some animals hide in a dark place b4 they die? nocturnal hunt loss habitat at 2025-07-04 04:40:25.747318

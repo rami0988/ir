@@ -1,0 +1,8 @@
+Top similarities for antique: [0.45999593 0.45999593 0.429333   0.42073077 0.3966984 ] at 2025-07-04 10:58:24.620393
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:58:25.370390
+Selected document at doc_id 2949566_1, similarity: 0.45999592542648315, text: ['milk'] at 2025-07-04 10:58:26.065392
+Selected document at doc_id 1679697_3, similarity: 0.45999592542648315, text: ['milk'] at 2025-07-04 10:58:26.065392
+Selected document at doc_id 2643507_0, similarity: 0.42933300137519836, text: ['doesnt', 'live', 'milk', 'cheaper', 'gallon', 'gas'] at 2025-07-04 10:58:26.066393
+Selected document at doc_id 1850102_1, similarity: 0.4207307696342468, text: ['cents', 'gallon'] at 2025-07-04 10:58:26.066971
+Additional words for antique: doesnt live cheaper cents at 2025-07-04 10:58:26.066971
+Enhanced Query for antique: why does milk cost more than gas per gallon? doesnt live cheaper cents at 2025-07-04 10:58:26.067978

@@ -1,0 +1,9 @@
+Top similarities for antique: [0.52838385 0.52442557 0.5123192  0.48001325 0.47158536] at 2025-07-04 04:36:47.709582
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:36:48.415572
+Selected document at doc_id 3631586_0, similarity: 0.5283838510513306, text: ['stress', 'depression'] at 2025-07-04 04:36:49.059610
+Selected document at doc_id 2482017_4, similarity: 0.5244255661964417, text: ['stress', 'anxiety'] at 2025-07-04 04:36:49.059610
+Selected document at doc_id 1569258_0, similarity: 0.5123192071914673, text: ['probably', 'anxiety'] at 2025-07-04 04:36:49.059610
+Selected document at doc_id 446060_10, similarity: 0.48001325130462646, text: ['illness', 'depression'] at 2025-07-04 04:36:49.060576
+Selected document at doc_id 3005735_12, similarity: 0.47158536314964294, text: ['depression'] at 2025-07-04 04:36:49.061574
+Additional words for antique: stress probably illness at 2025-07-04 04:36:49.061574
+Enhanced Query for antique: why do anxiety and depression seem to coexist? stress probably illness at 2025-07-04 04:36:49.062612

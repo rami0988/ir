@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4762984  0.47009128 0.46915594 0.46855018 0.46192187] at 2025-07-04 04:41:08.248082
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:41:08.944085
+Selected document at doc_id 610726_6, similarity: 0.47629839181900024, text: ['call', 'hospital', 'asap'] at 2025-07-04 04:41:09.584703
+Selected document at doc_id 117536_3, similarity: 0.4700912833213806, text: ['see', 'doctor', 'emergency', 'room', 'asap'] at 2025-07-04 04:41:09.584703
+Selected document at doc_id 2026422_2, similarity: 0.4691559374332428, text: ['call', 'medical', 'assistance', 'wait', 'medics'] at 2025-07-04 04:41:09.584703
+Selected document at doc_id 2203037_4, similarity: 0.4685501754283905, text: ['take', 'hospitalplease'] at 2025-07-04 04:41:09.586018
+Selected document at doc_id 4412164_1, similarity: 0.4619218707084656, text: ['nearest', 'hospital', 'immediate', 'assistance'] at 2025-07-04 04:41:09.586018
+Additional words for antique: call hospital asap see at 2025-07-04 04:41:09.587025
+Enhanced Query for antique: What do doctors do when a patient has a Do Nor Resuscitate Order? call hospital asap see at 2025-07-04 04:41:09.588025

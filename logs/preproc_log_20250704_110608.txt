@@ -1,0 +1,9 @@
+Top similarities for antique: [0.47092974 0.46817312 0.4681731  0.4681731  0.4681731 ] at 2025-07-04 11:06:10.627770
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:06:11.404872
+Selected document at doc_id 249670_8, similarity: 0.47092974185943604, text: ['parent', 'age'] at 2025-07-04 11:06:12.126348
+Selected document at doc_id 1663853_1, similarity: 0.4681731164455414, text: ['ask', 'parent'] at 2025-07-04 11:06:12.126348
+Selected document at doc_id 3905501_0, similarity: 0.468173086643219, text: ['ask', 'parent'] at 2025-07-04 11:06:12.127349
+Selected document at doc_id 535650_0, similarity: 0.468173086643219, text: ['ask', 'parent'] at 2025-07-04 11:06:12.127349
+Selected document at doc_id 535650_4, similarity: 0.468173086643219, text: ['ask', 'parent'] at 2025-07-04 11:06:12.128397
+Additional words for antique: age ask at 2025-07-04 11:06:12.128397
+Enhanced Query for antique: Why do parent put kids on restriction? age ask at 2025-07-04 11:06:12.129413

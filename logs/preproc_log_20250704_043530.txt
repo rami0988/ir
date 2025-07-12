@@ -1,0 +1,5 @@
+Top similarities for antique: [0.47160298 0.38924313 0.379376   0.37746722 0.37131077] at 2025-07-04 04:35:32.318703
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:33.037182
+Selected document at doc_id 1664423_2, similarity: 0.4716029763221741, text: ['heat', 'earth'] at 2025-07-04 04:35:33.673241
+Additional words for antique:  at 2025-07-04 04:35:33.674221
+No new words to add to query for antique at 2025-07-04 04:35:33.674221

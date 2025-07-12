@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Information Retrieval Chat Style</title>
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+<style>
+  body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #0f172a; /* bg-gray-900 */
+    color: #e0e7ff; /* text-indigo-200 */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #app {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+  #sidebar {
+    width: 320px;
+    background-color: #1e293b; /* bg-gray-800 */
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border-right: 1px solid #334155; /* border-gray-700 */
+  }
+  #sidebar h2 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #818cf8; /* indigo-400 */
+  }
+  #sidebar label {
+    font-size: 0.875rem;
+    color: #cbd5e1; /* text-gray-300 */
+    margin-top: 0.75rem;
+    margin-bottom: 0.25rem;
+    display: block;
+  }
+  #sidebar input, #sidebar select {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.375rem;
+    border: none;
+    background-color: #334155; /* bg-gray-700 */
+    color: #e0e7ff; /* text-indigo-200 */
+  }
+  #sidebar input:focus, #sidebar select:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #818cf8;
+    background-color: #475569; /* lighter gray */
+  }
+  #sidebar select:disabled {
+    background-color: #2d3748; /* darker gray for disabled */
+    opacity: 0.7;
+    cursor: not-allowed;
+  }
+  #sidebar button {
+    margin-top: 1.5rem;
+    background-color: #6366f1; /* indigo-500 */
+    color: white;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: none;
+  }
+  #sidebar button:hover {
+    background-color: #4f46e5; /* indigo-600 */
+  }
+  #main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    background-color: #0f172a; /* bg-gray-900 */
+    padding: 1rem;
+    overflow-y: auto;
+  }
+  #results {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding-right: 1rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .message {
+    margin-bottom: 1rem;
+    max-width: 75%;
+    padding: 1rem;
+    border-radius: 1rem;
+    line-height: 1.4;
+    font-size: 1rem;
+    white-space: pre-wrap;
+    display: inline-block;
+  }
+  .user-msg {
+    background: #4f46e5; /* indigo-600 */
+    color: white;
+    align-self: flex-end;
+    border-bottom-right-radius: 0;
+    margin-left: auto;
+    text-align: right;
+  }
+  .bot-msg {
+    background: #334155; /* gray-700 */
+    color: #e0e7ff;
+    align-self: flex-start;
+    border-bottom-left-radius: 0;
+    margin-right: auto;
+    text-align: left;
+  }
+  #loading {
+    display: none;
+    color: #818cf8;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+</style>
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar" aria-label="Search controls">
+      <h2>Search Parameters</h2>
+      <form id="searchForm">
+        <label for="query">Query:</label>
+        <input type="text" id="query" placeholder="Enter your query" required autocomplete="off" />
+
+        <label for="dataset">Dataset:</label>
+        <select id="dataset" required>
+          <option value="antique">antique</option>
+          <option value="beir">beir</option>
+        </select>
+
+        <label for="representation">Representation Type:</label>
+        <select id="representation" required>
+          <option value="tfidf">TF-IDF</option>
+          <option value="embedding">Embedding</option>
+          <option value="hybrid">Hybrid</option>
+        </select>
+
+        <label for="enhanceQuery">Enhance Query:</label>
+        <select id="enhanceQuery">
+          <option value="true">Yes</option>
+          <option value="false" selected>No</option>
+        </select>
+
+        <label for="useVectorStore">Use Vector Store:</label>
+        <select id="useVectorStore">
+          <option value="true">Yes</option>
+          <option value="false" selected>No</option>
+        </select>
+
+        <button type="submit">Search</button>
+      </form>
+    </aside>
+
+    <main id="main" role="main" aria-live="polite" aria-atomic="false">
+      <div id="loading">Loading...</div>
+      <div id="results" role="list"></div>
+    </main>
+  </div>
+
+<script>
+const form = document.getElementById('searchForm');
+const resultsContainer = document.getElementById('results');
+const loadingIndicator = document.getElementById('loading');
+const representationSelect = document.getElementById('representation');
+const useVectorStoreSelect = document.getElementById('useVectorStore');
+
+function createMessageElement(text, isUser = false) {
+  const div = document.createElement('div');
+  div.classList.add('message');
+  div.classList.add(isUser ? 'user-msg' : 'bot-msg');
+  div.textContent = text;
+  return div;
+}
+
+// تحديث خيارات useVectorStore بناءً على representation
+function updateVectorStoreOptions() {
+  const representation = representationSelect.value;
+  if (representation === 'tfidf') {
+    useVectorStoreSelect.value = 'false';
+    useVectorStoreSelect.disabled = true;
+  } else {
+    useVectorStoreSelect.disabled = false;
+  }
+}
+
+// تشغيل التحديث عند تحميل الصفحة
+updateVectorStoreOptions();
+
+// إضافة حدث change على representation
+representationSelect.addEventListener('change', updateVectorStoreOptions);
+
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
+
+  const query = document.getElementById('query').value.trim();
+  if (!query) return;
+
+  // Show user message على اليمين
+  const userMessage = createMessageElement(query, true);
+  resultsContainer.appendChild(userMessage);
+  resultsContainer.scrollTop = resultsContainer.scrollHeight;
+
+  loadingIndicator.style.display = 'block';
+
+  const dataset = document.getElementById('dataset').value;
+  const representation = document.getElementById('representation').value;
+  const enhanceQuery = document.getElementById('enhanceQuery').value;
+  const useVectorStore = document.getElementById('useVectorStore').value;
+
+  try {
+    const response = await fetch(`http://localhost:8000/search?query=${encodeURIComponent(query)}&dataset=${dataset}&representation=${representation}&enhanceQuery=${enhanceQuery}&useVectorStore=${useVectorStore}`);
+
+    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+    const data = await response.json();
+
+    loadingIndicator.style.display = 'none';
+
+    if (data.error) {
+      const errorMsg = createMessageElement(`Error: ${data.error}`, false);
+      resultsContainer.appendChild(errorMsg);
+    } else if (data.results && data.results.length > 0) {
+      data.results.forEach(doc => {
+        const preview = doc.text.length > 300 ? doc.text.substring(0, 300) + '...' : doc.text;
+        const text = `Doc ID: ${doc.doc_id}\nScore: ${doc.score.toFixed(4)}\n\n${preview}`;
+        const botMessage = createMessageElement(text, false);
+        resultsContainer.appendChild(botMessage);
+      });
+    } else {
+      const noResultsMsg = createMessageElement('No results found.', false);
+      resultsContainer.appendChild(noResultsMsg);
+    }
+
+    resultsContainer.scrollTop = resultsContainer.scrollHeight;
+  } catch (err) {
+    loadingIndicator.style.display = 'none';
+    const errorMsg = createMessageElement(`Fetch error: ${err.message}`, false);
+    resultsContainer.appendChild(errorMsg);
+    resultsContainer.scrollTop = resultsContainer.scrollHeight;
+  }
+});
+</script>
+</body>
+</html>

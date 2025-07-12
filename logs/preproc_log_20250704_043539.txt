@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5589129  0.5589129  0.5589129  0.5023713  0.45316398] at 2025-07-04 04:35:41.322450
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:35:42.050452
+Selected document at doc_id 152846_3, similarity: 0.5589128732681274, text: ['clone'] at 2025-07-04 04:35:42.687448
+Selected document at doc_id 2609953_22, similarity: 0.5589128732681274, text: ['clone'] at 2025-07-04 04:35:42.687448
+Selected document at doc_id 2030149_1, similarity: 0.5589128732681274, text: ['clone'] at 2025-07-04 04:35:42.688448
+Selected document at doc_id 3260467_6, similarity: 0.5023713111877441, text: ['agree', 'clone'] at 2025-07-04 04:35:42.688448
+Selected document at doc_id 393159_1, similarity: 0.4531639814376831, text: ['copycats'] at 2025-07-04 04:35:42.690665
+Additional words for antique: agree copycats at 2025-07-04 04:35:42.690665
+Enhanced Query for antique: how cloning will affects our community? agree copycats at 2025-07-04 04:35:42.691674

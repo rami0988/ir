@@ -1,0 +1,9 @@
+ir_datasets
+pandas
+numpy
+scikit-learn
+nltk
+transformers
+sentence-transformers
+rank_bm25
+flask

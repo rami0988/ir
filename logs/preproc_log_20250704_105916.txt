@@ -1,0 +1,8 @@
+Top similarities for antique: [0.4945193  0.43647403 0.4243886  0.40420964 0.39806622] at 2025-07-04 10:59:18.300578
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 10:59:19.061613
+Selected document at doc_id 4256593_5, similarity: 0.49451929330825806, text: ['vx8300s', 'dont', 'sim', 'card', 'vzw', 'sim', 'card', 'global', 'phone'] at 2025-07-04 10:59:19.741825
+Selected document at doc_id 389316_4, similarity: 0.4364740252494812, text: ['unplug', 'phone'] at 2025-07-04 10:59:19.741825
+Selected document at doc_id 4256593_0, similarity: 0.424388587474823, text: ['vx8300', 'cell', 'phone', 'cdma', 'phone', 'offer', 'verizon', 'cdma', 'phone', 'not', 'use', 'sim', 'card', 'gsm', 'phone', 'use', 'sim', 'card'] at 2025-07-04 10:59:19.742797
+Selected document at doc_id 1521110_0, similarity: 0.4042096436023712, text: ['sim', 'subscriber', 'identification', 'modlue', 'type', 'smart', 'card', 'store', 'detail', 'service', 'provider', 'well', 'number', 'detail', 'require', 'sim', 'also', 'extra', 'space', 'store', 'user', 'data', 'like', 'phone', 'sms'] at 2025-07-04 10:59:19.742797
+Additional words for antique: vx8300s dont sim vzw at 2025-07-04 10:59:19.743795
+Enhanced Query for antique: How do I remove the SIMM card on a LG VX8300 Cell Phone? vx8300s dont sim vzw at 2025-07-04 10:59:19.743795

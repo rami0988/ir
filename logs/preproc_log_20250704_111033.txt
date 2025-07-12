@@ -1,0 +1,9 @@
+Top similarities for antique: [0.49694702 0.4784521  0.4738888  0.4570037  0.45279685] at 2025-07-04 11:10:35.032947
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:10:35.760263
+Selected document at doc_id 3930278_6, similarity: 0.4969470202922821, text: ['atm', 'inside'] at 2025-07-04 11:10:36.473026
+Selected document at doc_id 1453334_11, similarity: 0.47845208644866943, text: ['maybe', 'cheaper', 'make', 'keypads'] at 2025-07-04 11:10:36.473026
+Selected document at doc_id 3712755_1, similarity: 0.4738888144493103, text: ['check', 'keylessridecom'] at 2025-07-04 11:10:36.473026
+Selected document at doc_id 2085158_5, similarity: 0.45700371265411377, text: ['put', 'bank', 'card', 'atm', 'put', 'pin', 'find', 'transfer', 'screen', 'follow', 'instructions'] at 2025-07-04 11:10:36.475025
+Selected document at doc_id 2078133_2, similarity: 0.4527968466281891, text: ['cover', 'keypad'] at 2025-07-04 11:10:36.475025
+Additional words for antique: atm inside maybe cheaper at 2025-07-04 11:10:36.475025
+Enhanced Query for antique: Why is there brail on the keypads at drive up ATM's? atm inside maybe cheaper at 2025-07-04 11:10:36.476030

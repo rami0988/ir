@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6081969  0.5849668  0.5561936  0.5156696  0.51555437] at 2025-07-04 04:39:38.684913
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:39:39.401914
+Selected document at doc_id 2212679_14, similarity: 0.6081969141960144, text: ['christ', 'persecute'] at 2025-07-04 04:39:40.038913
+Selected document at doc_id 272965_13, similarity: 0.584966778755188, text: ['punish'] at 2025-07-04 04:39:40.039912
+Selected document at doc_id 463288_13, similarity: 0.5561935901641846, text: ['crucify'] at 2025-07-04 04:39:40.040913
+Selected document at doc_id 212480_0, similarity: 0.515669584274292, text: ['christ', 'die', 'sin'] at 2025-07-04 04:39:40.040913
+Selected document at doc_id 3529069_7, similarity: 0.5155543684959412, text: ['sinful'] at 2025-07-04 04:39:40.042414
+Additional words for antique: christ persecute crucify die at 2025-07-04 04:39:40.042414
+Enhanced Query for antique: Why was I punished for being christlike? christ persecute crucify die at 2025-07-04 04:39:40.043420

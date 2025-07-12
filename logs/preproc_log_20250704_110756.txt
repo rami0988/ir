@@ -1,0 +1,9 @@
+Top similarities for antique: [0.6435472  0.5733346  0.57333434 0.57333434 0.52167124] at 2025-07-04 11:07:57.807673
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:07:58.531950
+Selected document at doc_id 1582806_2, similarity: 0.6435471773147583, text: ['chlamydia', 'std'] at 2025-07-04 11:07:59.318818
+Selected document at doc_id 3037728_9, similarity: 0.5733345746994019, text: ['std'] at 2025-07-04 11:07:59.319827
+Selected document at doc_id 3348954_0, similarity: 0.5733343362808228, text: ['std'] at 2025-07-04 11:07:59.320847
+Selected document at doc_id 848055_4, similarity: 0.5733343362808228, text: ['std'] at 2025-07-04 11:07:59.320847
+Selected document at doc_id 3411126_0, similarity: 0.5216712355613708, text: ['std', 'sexually', 'transmit', 'diseases'] at 2025-07-04 11:07:59.321824
+Additional words for antique: chlamydia diseases at 2025-07-04 11:07:59.321824
+Enhanced Query for antique: how can i cure the std or the sexually transmitted disease? chlamydia diseases at 2025-07-04 11:07:59.321824

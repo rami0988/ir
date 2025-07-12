@@ -1,0 +1,6 @@
+Top similarities for antique: [0.4669923  0.4043629  0.39827782 0.35862553 0.34706154] at 2025-07-04 11:08:34.079666
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:08:34.825076
+Selected document at doc_id 1680485_2, similarity: 0.4669922888278961, text: ['ban', 'tobacco'] at 2025-07-04 11:08:35.560318
+Selected document at doc_id 2814722_11, similarity: 0.40436288714408875, text: ['not', 'unconstitutional'] at 2025-07-04 11:08:35.560318
+Additional words for antique: tobacco at 2025-07-04 11:08:35.561319
+Enhanced Query for antique: why is the new jersey smoking ban not considered unconstitutional? tobacco at 2025-07-04 11:08:35.561319

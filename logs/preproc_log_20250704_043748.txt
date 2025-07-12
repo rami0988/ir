@@ -1,0 +1,7 @@
+Top similarities for antique: [0.49048918 0.46584517 0.40390623 0.3825258  0.37960407] at 2025-07-04 04:37:50.299926
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:37:50.985932
+Selected document at doc_id 2976644_0, similarity: 0.4904891848564148, text: ['amoeba', 'head', 'toward', 'unsuspecting', 'paramecium', 'begin', 'spread', 'body', 'catch', 'prey', 'late', 'parameciumits', 'catch', 'amoeba', 'spread', 'even', 'surround', 'lunch', 'microbe', 'start', 'look', 'like', 'big', 'mitten', 'amoeba', 'keep', 'change', 'shape', 'enclose', 'prey', 'paramecium', 'soon', 'completely', 'inside', 'amoeba', 'amoeba', 'absorb', 'lunch', 'directly', 'inside', 'cell', 'wall'] at 2025-07-04 04:37:51.599959
+Selected document at doc_id 3612515_2, similarity: 0.46584516763687134, text: ['protists', 'include', 'amoebas', 'paramecia', 'euglenas'] at 2025-07-04 04:37:51.600644
+Selected document at doc_id 307607_1, similarity: 0.4039062261581421, text: ['cephalopod', 'nautilus', 'squid', 'cuttlefish', 'octopus'] at 2025-07-04 04:37:51.601665
+Additional words for antique: head toward unsuspecting paramecium at 2025-07-04 04:37:51.601665
+Enhanced Query for antique: How amoeba catches its prey? head toward unsuspecting paramecium at 2025-07-04 04:37:51.602653

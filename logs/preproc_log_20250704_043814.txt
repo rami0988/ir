@@ -1,0 +1,9 @@
+Top similarities for antique: [0.47685158 0.47685158 0.4325634  0.42366132 0.41789728] at 2025-07-04 04:38:16.193607
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:16.891610
+Selected document at doc_id 2198611_7, similarity: 0.47685158252716064, text: ['fry', 'chicken'] at 2025-07-04 04:38:17.519657
+Selected document at doc_id 2649139_13, similarity: 0.47685158252716064, text: ['fry', 'chicken'] at 2025-07-04 04:38:17.520651
+Selected document at doc_id 827653_0, similarity: 0.4325633943080902, text: ['fry', 'chicken', 'waffle'] at 2025-07-04 04:38:17.520651
+Selected document at doc_id 1983610_15, similarity: 0.42366132140159607, text: ['reason', 'black', 'like', 'fry', 'chicken'] at 2025-07-04 04:38:17.521713
+Selected document at doc_id 2913204_2, similarity: 0.4178972840309143, text: ['rappers', 'black'] at 2025-07-04 04:38:17.521713
+Additional words for antique: waffle reason rappers at 2025-07-04 04:38:17.522653
+Enhanced Query for antique: why do black people like fried chicken somuch? waffle reason rappers at 2025-07-04 04:38:17.523654

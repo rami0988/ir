@@ -1,0 +1,9 @@
+Top similarities for antique: [0.5980079  0.59181964 0.57952195 0.5627862  0.5512117 ] at 2025-07-04 04:33:35.952020
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:33:37.022018
+Selected document at doc_id 2814599_0, similarity: 0.5980079174041748, text: ['remission', 'disappearance', 'sign', 'symptoms', 'cancer', 'disease', 'happen', 'disease', 'say', 'remission', 'remission', 'temporary', 'permanent'] at 2025-07-04 04:33:38.099014
+Selected document at doc_id 72950_5, similarity: 0.5918196439743042, text: ['cancer', 'treat', 'surgery', 'chemotherapy', 'radiation', 'therapy', 'immunotherapy', 'one'] at 2025-07-04 04:33:38.101036
+Selected document at doc_id 1806469_6, similarity: 0.5795219540596008, text: ['stage', 'chemo', 'operable', 'surgery', 'maybe', 'radiation'] at 2025-07-04 04:33:38.103016
+Selected document at doc_id 2856793_0, similarity: 0.5627862215042114, text: ['possibility', 'treat', 'cancer'] at 2025-07-04 04:33:38.104014
+Selected document at doc_id 317530_1, similarity: 0.5512117147445679, text: ['diffrence', 'oncology', 'mean', 'treatment', 'cancer'] at 2025-07-04 04:33:38.104014
+Additional words for antique: disappearance sign symptoms disease at 2025-07-04 04:33:38.105030
+Enhanced Query for antique: what does the word remission mean when referring to cancer patients? disappearance sign symptoms disease at 2025-07-04 04:33:38.106014

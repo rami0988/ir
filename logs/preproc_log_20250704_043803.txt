@@ -1,0 +1,7 @@
+Top similarities for antique: [0.42055425 0.4177877  0.409553   0.39346755 0.39236736] at 2025-07-04 04:38:04.736301
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:38:05.464399
+Selected document at doc_id 1222002_6, similarity: 0.4205542504787445, text: ['cuz', 'history'] at 2025-07-04 04:38:06.085492
+Selected document at doc_id 253103_9, similarity: 0.41778770089149475, text: ['islams', 'bible'] at 2025-07-04 04:38:06.085492
+Selected document at doc_id 1248486_14, similarity: 0.40955299139022827, text: ['start', 'back', 'holy', 'crusade', 'roman', 'catholic', 'church', 'height', 'power', 'send', 'armies', 'muslim', 'countries', 'slaughter', 'people', 'thousands', 'try', 'extinguish', 'every', 'religion', 'christianity', 'hold', 'centuries', 'issue', 'make', 'hate', 'dont', 'like', 'lifestyle', 'culture', 'especially', 'womens', 'right', 'way', 'women', 'allow', 'dress', 'express', 'freely', 'not', 'like', 'fact', 'america', 'take', 'oil', 'send', 'army', 'take', 'control', 'countries', 'west', 'believe', 'muslims', 'terrorists', 'compare', 'number', 'last', 'years', 'show', 'american', 'kill', 'muslims', 'far', 'compare', 'vice', 'versa', 'not', 'muslims', 'hate', 'west', 'blame'] at 2025-07-04 04:38:06.086516
+Additional words for antique: cuz islams bible start at 2025-07-04 04:38:06.087337
+Enhanced Query for antique: when it comes to religion why dont people realize history repeats itself? cuz islams bible start at 2025-07-04 04:38:06.088368

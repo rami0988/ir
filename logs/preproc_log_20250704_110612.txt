@@ -1,0 +1,9 @@
+Top similarities for antique: [0.56974745 0.48864347 0.46608037 0.43512633 0.4233032 ] at 2025-07-04 11:06:13.929033
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:06:14.702316
+Selected document at doc_id 804624_1, similarity: 0.5697474479675293, text: ['insurance'] at 2025-07-04 11:06:15.377049
+Selected document at doc_id 3928885_1, similarity: 0.48864346742630005, text: ['apply', 'insurance'] at 2025-07-04 11:06:15.377049
+Selected document at doc_id 950250_1, similarity: 0.46608036756515503, text: ['insurance', 'company', 'get', 'accident'] at 2025-07-04 11:06:15.378041
+Selected document at doc_id 1728246_2, similarity: 0.43512633442878723, text: ['insurance', 'pay', 'rental', 'car'] at 2025-07-04 11:06:15.378917
+Selected document at doc_id 65974_1, similarity: 0.42330318689346313, text: ['wwwzanderinsurancecom', 'get', 'identity', 'theft', 'insurance'] at 2025-07-04 11:06:15.378917
+Additional words for antique: apply company get accident at 2025-07-04 11:06:15.379934
+Enhanced Query for antique: Which auto insurance do you use and why? apply company get accident at 2025-07-04 11:06:15.379934

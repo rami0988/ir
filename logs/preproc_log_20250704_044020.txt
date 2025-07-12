@@ -1,0 +1,9 @@
+Top similarities for antique: [0.59139115 0.57730615 0.577306   0.577306   0.577306  ] at 2025-07-04 04:40:21.616088
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:22.318090
+Selected document at doc_id 1523045_3, similarity: 0.5913911461830139, text: ['grow', 'older'] at 2025-07-04 04:40:22.951216
+Selected document at doc_id 2850558_18, similarity: 0.5773061513900757, text: ['grow'] at 2025-07-04 04:40:22.951216
+Selected document at doc_id 1272836_1, similarity: 0.5773059725761414, text: ['grow'] at 2025-07-04 04:40:22.951216
+Selected document at doc_id 1751532_16, similarity: 0.5773059725761414, text: ['grow'] at 2025-07-04 04:40:22.952226
+Selected document at doc_id 306396_3, similarity: 0.5773059725761414, text: ['grow'] at 2025-07-04 04:40:22.952226
+Additional words for antique: older at 2025-07-04 04:40:22.953231
+Enhanced Query for antique: How do I grow taller? older at 2025-07-04 04:40:22.954216

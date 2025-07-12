@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4692424  0.46455967 0.4508826  0.44825828 0.44467282] at 2025-07-01 10:54:11.170308
+Loaded doc_id_mapping with 403666 entries at 2025-07-01 10:54:11.990309
+Selected document at doc_id 3382736_3, similarity: 0.4692423939704895, text: ['cubism', 'movement', 'early', '20th', 'century', 'artist', 'simplify', 'complex', 'object', 'geometric', 'shape', 'try', 'image', 'search', 'cubism', 'google'] at 2025-07-01 10:54:13.210330
+Selected document at doc_id 3382736_2, similarity: 0.4645596742630005, text: ['cubism', 'minimalist', 'artistic', 'movement', 'seek', 'express', 'world', 'simply', 'possible', 'less', 'basically', 'art', 'would', 'basic', 'shape', 'form', 'depict', 'subject', 'music', 'simple', 'sound', 'produce', 'usually', 'orchestra', 'without', 'huge', 'fanfare', 'harmony', 'cubism', 'think', 'pablo', 'picasso', 'paul', 'klee', 'rather', 'curve', 'line', 'mind', 'see', 'look', 'things', 'people', 'image', 'compose', 'simple', 'shape', 'like', 'triangles', 'cub'] at 2025-07-01 10:54:13.240307
+Selected document at doc_id 1677609_4, similarity: 0.45088261365890503, text: ['side', 'cube'] at 2025-07-01 10:54:13.241312
+Selected document at doc_id 3293497_2, similarity: 0.44825828075408936, text: ['two', 'rectanglesconnected', 'form', 'prism'] at 2025-07-01 10:54:13.241312
+Selected document at doc_id 2480615_3, similarity: 0.4446728229522705, text: ['length', 'height', 'area', 'one', 'side', 'area', 'one', 'side', 'surface', 'area', 'cube'] at 2025-07-01 10:54:13.242310
+Additional words for antique: cubism movement early 20th at 2025-07-01 10:54:13.243312
+Enhanced Query for antique: what is minimalist cubisium? cubism movement early 20th at 2025-07-01 10:54:13.245309

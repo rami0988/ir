@@ -1,0 +1,9 @@
+Top similarities for antique: [0.547167   0.5318284  0.5088624  0.5002996  0.49198747] at 2025-07-04 11:06:20.840490
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 11:06:21.711721
+Selected document at doc_id 3638873_12, similarity: 0.5471670031547546, text: ['run', 'pilates', 'belly', 'drink'] at 2025-07-04 11:06:22.737008
+Selected document at doc_id 9153_4, similarity: 0.5318284034729004, text: ['situps', 'stomach', 'exercise'] at 2025-07-04 11:06:22.737008
+Selected document at doc_id 245498_3, similarity: 0.5088623762130737, text: ['yoga', 'pilates'] at 2025-07-04 11:06:22.737008
+Selected document at doc_id 2956945_3, similarity: 0.5002995729446411, text: ['sit', 'up', 'pilates'] at 2025-07-04 11:06:22.738409
+Selected document at doc_id 1533701_4, similarity: 0.4919874668121338, text: ['squat', 'buttocks', 'exercise'] at 2025-07-04 11:06:22.738409
+Additional words for antique: run pilates belly drink at 2025-07-04 11:06:22.739423
+Enhanced Query for antique: what are some good exercises to get rid of those love handles? run pilates belly drink at 2025-07-04 11:06:22.739423

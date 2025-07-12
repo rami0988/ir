@@ -1,0 +1,9 @@
+Top similarities for antique: [0.4864692  0.48419115 0.4535959  0.4532577  0.45179772] at 2025-07-04 04:40:27.253318
+Loaded doc_id_mapping with 403666 entries at 2025-07-04 04:40:27.953075
+Selected document at doc_id 4041204_2, similarity: 0.48646920919418335, text: ['try', 'abriva', 'neosporin', 'counter', 'medications'] at 2025-07-04 04:40:28.578470
+Selected document at doc_id 1170308_8, similarity: 0.4841911494731903, text: ['wash', 'daily', 'epsom', 'salt', 'water'] at 2025-07-04 04:40:28.578470
+Selected document at doc_id 746920_6, similarity: 0.453595906496048, text: ['scholls', 'wart', 'remover'] at 2025-07-04 04:40:28.579471
+Selected document at doc_id 3648888_4, similarity: 0.4532577097415924, text: ['soap', 'water', 'bandaid', 'neosporin'] at 2025-07-04 04:40:28.580470
+Selected document at doc_id 4112430_7, similarity: 0.4517977237701416, text: ['soak', 'vinegar'] at 2025-07-04 04:40:28.580470
+Additional words for antique: try abriva neosporin counter at 2025-07-04 04:40:28.580470
+Enhanced Query for antique: How do you get rid of wart on your hand a using home method? try abriva neosporin counter at 2025-07-04 04:40:28.581499
