@@ -1,0 +1,9 @@
+Top similarities for beir: [0.5518447 0.5518447 0.5518447 0.5470319 0.5465588] at 2025-07-13 00:47:11.385858
+Loaded doc_id_mapping with 522931 entries at 2025-07-13 00:47:12.245636
+Selected document at doc_id 358302, similarity: 0.5518447160720825, text: ['humans', 'evil'] at 2025-07-13 00:47:12.887602
+Selected document at doc_id 267299, similarity: 0.5518447160720825, text: ['humans', 'evil'] at 2025-07-13 00:47:12.887602
+Selected document at doc_id 267300, similarity: 0.5518447160720825, text: ['humans', 'evil'] at 2025-07-13 00:47:12.888602
+Selected document at doc_id 407870, similarity: 0.5470318794250488, text: ['greed', 'good'] at 2025-07-13 00:47:12.888602
+Selected document at doc_id 407869, similarity: 0.5465587973594666, text: ['greed', 'good', 'bad'] at 2025-07-13 00:47:12.889602
+Additional words for beir: greed good bad at 2025-07-13 00:47:12.889602
+Enhanced Query for beir: Does it matter whether humans are selfish or evil? greed good bad at 2025-07-13 00:47:12.891518

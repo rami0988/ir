@@ -1,5 +1,6 @@
 import ast
 from datetime import datetime
+import io
 import sqlite3
 import nltk
 from nltk.tokenize import word_tokenize
@@ -16,7 +17,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import json
 import requests
 from sklearn.metrics.pairwise import cosine_similarity
-
+import torch
 # تحميل بيانات NLTK
 nltk.download('punkt', quiet=True)
 nltk.download('stopwords', quiet=True)
@@ -43,21 +44,45 @@ def preprocess_text(text):
 
 global_model_cache = {}
 
-def get_model(dataset_name):
+# def get_model(dataset_name):
 
+#     global global_model_cache
+#     if dataset_name not in global_model_cache:
+#         vectorizer_file = f"data/{dataset_name}/embeddings_vectorizer.joblib"
+#         if os.path.exists(vectorizer_file):
+#             global_model_cache[dataset_name] = joblib.load(vectorizer_file)
+#             print(f"Loaded model from {vectorizer_file}")
+#         else:
+#             global_model_cache[dataset_name] = SentenceTransformer('all-mpnet-base-v2')
+#             joblib.dump(global_model_cache[dataset_name], vectorizer_file)
+#             print(f"Initialized new model and saved to {vectorizer_file}")
+#     return global_model_cache[dataset_name]
+
+def get_model(dataset_name):
     global global_model_cache
     if dataset_name not in global_model_cache:
         vectorizer_file = f"data/{dataset_name}/embeddings_vectorizer.joblib"
         if os.path.exists(vectorizer_file):
-            global_model_cache[dataset_name] = joblib.load(vectorizer_file)
-            print(f"Loaded model from {vectorizer_file}")
+            try:
+                # Load the model with map_location to ensure CPU compatibility
+                with open(vectorizer_file, 'rb') as f:
+                    global_model_cache[dataset_name] = joblib.load(f)
+                # Move the model to CPU explicitly
+                global_model_cache[dataset_name].to('cpu')
+                print(f"Loaded model from {vectorizer_file} and moved to CPU")
+            except Exception as e:
+                print(f"Error loading model from {vectorizer_file}: {str(e)}")
+                # Fallback to initializing a new model
+                global_model_cache[dataset_name] = SentenceTransformer('all-mpnet-base-v2')
+                global_model_cache[dataset_name].to('cpu')
+                joblib.dump(global_model_cache[dataset_name], vectorizer_file)
+                print(f"Initialized new model and saved to {vectorizer_file}")
         else:
             global_model_cache[dataset_name] = SentenceTransformer('all-mpnet-base-v2')
+            global_model_cache[dataset_name].to('cpu')
             joblib.dump(global_model_cache[dataset_name], vectorizer_file)
             print(f"Initialized new model and saved to {vectorizer_file}")
     return global_model_cache[dataset_name]
-
-    
 
 def load_embeddings(dataset_name):
     embedding_file = f"data/{dataset_name}/embeddings_matrix.joblib"
@@ -75,23 +100,29 @@ def process_query(query, dataset_name, representation_type='tfidf', enhance=Fals
     log_file = f"logs/preproc_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
     
     if enhance:
+            #بحمل تمثيلا الماتريكس للداتا 
             query_embeddings = load_embeddings(dataset_name)
+            ########
             if len(query_embeddings) == 0:
                 print(f"No query embeddings available for {dataset_name}")
                 with open(log_file, "a", encoding="utf-8") as log:
                     log.write(f"No query embeddings available for {dataset_name} at {datetime.now()}\n")
                 return query, processed_query
-
+            #بحمل فيكتورايزي ال embedding 
             model = get_model(dataset_name)
+            #بيعمل الكويري  كلمة وحده 
             query_text = ' '.join(processed_query)
+            # بحولها لفيكتور 
             query_vector = model.encode([query_text], convert_to_numpy=True)
             similarities = cosine_similarity(query_vector, query_embeddings)[0]
             top_indices = np.argsort(similarities)[::-1][:5]
             print(f"Top similarities: {similarities[top_indices]}")
+            ###########################################
             with open(log_file, "a", encoding="utf-8") as log:
                 log.write(f"Top similarities for {dataset_name}: {similarities[top_indices]} at {datetime.now()}\n")
-
+            #بيتاكد من وجود الداتا بيز
             db_file = f"data/{dataset_name}/index.db"
+            ####################
             if not os.path.exists(db_file):
                 print(f"Error: Database file {db_file} not found")
                 with open(log_file, "a", encoding="utf-8") as log:
@@ -100,6 +131,7 @@ def process_query(query, dataset_name, representation_type='tfidf', enhance=Fals
 
             # تحميل ملف doc_id_mapping.joblib
             mapping_file = f"data/{dataset_name}/doc_id_mapping.joblib"
+            ####################################
             if not os.path.exists(mapping_file):
                 print(f"Error: Mapping file {mapping_file} not found")
                 with open(log_file, "a", encoding="utf-8") as log:

@@ -34,7 +34,7 @@ def rank_documents_hybrid(query_vector, dataset_name, use_vector_store=False):
         if query_vector_tfidf.shape[1] != tfidf_matrix.shape[1]:
             return {"status": "error", "message": "Dimension mismatch between TF-IDF query vector and TF-IDF matrix"}
         
-        query_vector_sparse = csr_matrix(query_vector_tfidf)
+        # query_vector_sparse = csr_matrix(query_vector_tfidf)
         similarities_tfidf = cosine_similarity(query_vector_tfidf, tfidf_matrix)
         top_k = 1000
         doc_indices_tfidf = np.argsort(similarities_tfidf[0])[::-1][:top_k]
